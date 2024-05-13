@@ -7,41 +7,45 @@
 						<div class="nav__content">
 							<div class="nav__logo">
 								<router-link to="/">
-									<img :src="require('@/assets/images/logo-three.png')" alt="Logo" />
+									<img :src="require('@/assets/images/logo.png')" alt="Logo" />
 								</router-link>
 							</div>
 							<div class="nav__menu">
 								<ul class="nav__menu-items">
+
 									<li class="nav__menu-item nav__menu-item--dropdown">
 										<a href="javascript:void(0)" class="nav__menu-link nav__menu-link--dropdown">
 											AI Tools
 										</a>
 										<div class="nav__dropdown nav__dropdown--alt">
-											<ul>
+											<div class="navbar__responsive">
 												<a href="/">
 													<li class="atery" style="font-size: 28px;">
 														ZOBOX <br>AI TOOLS
 													</li>
 												</a>
-											</ul>
+											</div>
 											<ul>
 												<li>
-													<router-link to="/" class="nav__dropdown-item hide-nav">
+													<router-link to="/voice_over" class="nav__dropdown-item hide-nav">
 														Voice Over
 													</router-link>
 												</li>
 												<li>
-													<router-link to="/content_writer" class="nav__dropdown-item hide-nav">
+													<router-link to="/content_writer"
+														class="nav__dropdown-item hide-nav">
 														Content Writer
 													</router-link>
 												</li>
 												<li>
-													<router-link to="/photo_edit_tool" class="nav__dropdown-item hide-nav">
+													<router-link to="/photo_edit_tool"
+														class="nav__dropdown-item hide-nav">
 														Photo Edit Tool
 													</router-link>
 												</li>
 												<li>
-													<router-link to="/resume_builder" class="nav__dropdown-item hide-nav">
+													<router-link to="/resume_builder"
+														class="nav__dropdown-item hide-nav">
 														Resume Builder
 													</router-link>
 												</li>
@@ -56,22 +60,25 @@
 													</router-link>
 												</li>
 												<li>
-													<router-link to="/image_generator" class="nav__dropdown-item hide-nav">
+													<router-link to="/image_generator"
+														class="nav__dropdown-item hide-nav">
 														Image Generator
 													</router-link>
 												</li>
 												<li>
-													<router-link to="/digital_agency" class="nav__dropdown-item hide-nav">
+													<router-link to="/digital_agency"
+														class="nav__dropdown-item hide-nav">
 														Digital Agency
 													</router-link>
 												</li>
 												<li>
-													<router-link to="/video_creation" class="nav__dropdown-item hide-nav">
+													<router-link to="/video_creation"
+														class="nav__dropdown-item hide-nav">
 														Video Creation
 													</router-link>
 												</li>
 												<li>
-													<router-link to="/personel_consultan"
+													<router-link to="/personel_consultant"
 														class="nav__dropdown-item hide-nav">
 														Personal Consultant
 													</router-link>
@@ -79,105 +86,45 @@
 											</ul>
 										</div>
 									</li>
-									<li class="nav__menu-item">
-										<router-link to="/about" class="nav__menu-link hide-nav">About
-											Us</router-link>
+
+									<li class="nav__menu-item nav__menu-item--dropdown">
+										<a href="/get-started" class="nav__menu-link">
+											Get Started
+										</a>
 									</li>
 									<li class="nav__menu-item nav__menu-item--dropdown">
-										<a href="javascript:void(0)" class="nav__menu-link nav__menu-link--dropdown">
+										<a href="/use-case" class="nav__menu-link">
 											Use
-											Case
+											Cases
 										</a>
-										<ul class="nav__dropdown">
-											<li>
-												<router-link class="nav__dropdown-item hide-nav" to="/use-case">
-													Use
-													Case
-												</router-link>
-											</li>
-											<li>
-												<router-link class="nav__dropdown-item hide-nav" to="/use-case-details">
-													Use
-													Case
-													Details
-												</router-link>
-											</li>
-										</ul>
 									</li>
 									<li class="nav__menu-item nav__menu-item--dropdown">
-										<a href="javascript:void(0)" class="nav__menu-link nav__menu-link--dropdown">
-											Pages
+										<a href="javascript:void(0)" class="nav__menu-link nav__menu-link--dro pdown">
+											News & Blog
 										</a>
 										<ul class="nav__dropdown">
 											<li>
-												<router-link to="/404"
-													class="nav__dropdown-item hide-nav">Error</router-link>
-											</li>
-											<li>
-												<router-link to="/sign-up" class="nav__dropdown-item hide-nav">
-													Sign
-													Up
+												<router-link to="/news" class="nav__dropdown-item hide-nav">
+													News
 												</router-link>
 											</li>
-											<li>
-												<router-link to="/sign-in" class="nav__dropdown-item hide-nav">
-													Sign
-													In
-												</router-link>
-											</li>
-											<li>
-												<router-link to="/teams" class="nav__dropdown-item hide-nav">
-													Our
-													Teams
-												</router-link>
-											</li>
-											<li>
-												<router-link to="/about" class="nav__dropdown-item hide-nav">
-													About
-													Us
-												</router-link>
-											</li>
-											<li>
-												<router-link to="/contact-us" class="nav__dropdown-item hide-nav">
-													Contact
-													Us
-												</router-link>
-											</li>
-										</ul>
-									</li>
-									<li class="nav__menu-item nav__menu-item--dropdown">
-										<a href="javascript:void(0)" class="nav__menu-link nav__menu-link--dropdown">
-											Blog
-										</a>
-										<ul class="nav__dropdown">
 											<li>
 												<router-link to="/blog" class="nav__dropdown-item hide-nav">
 													Blog
-													Layout
-													One
-												</router-link>
-											</li>
-											<li>
-												<router-link to="/blog-two" class="nav__dropdown-item hide-nav">
-													Blog
-													Layout
-													Two
-												</router-link>
-											</li>
-											<li>
-												<router-link to="blog-details" class="nav__dropdown-item hide-nav">
-													Blog
-													Single
 												</router-link>
 											</li>
 										</ul>
+									</li>
+									<li class="nav__menu-item">
+										<router-link to="/about" class="nav__menu-link hide-nav">About
+											Us</router-link>
 									</li>
 									<li class="nav__menu-item">
 										<router-link to="/contact-us" class="nav__menu-link hide-nav">Contact
 											Us</router-link>
 									</li>
 									<li class="nav__menu-item d-block d-md-none">
-										<router-link to="/sign-up" class="btn btn--septenary">
+										<router-link to="/sign-up" class="btn btn--secondary">
 											Sign
 											Up
 										</router-link>

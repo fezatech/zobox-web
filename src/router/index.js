@@ -1,16 +1,17 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 
-import Home from '@/pages/Home.vue'
+import VoiceOver from '@/pages/Home.vue'
 import Home2 from '@/pages/Home2.vue'
 import Home3 from '@/pages/Home3.vue'
 import Home4 from '@/pages/Home4.vue'
 import Home5 from '@/pages/Home5.vue'
 import Home6 from '@/pages/Home6.vue'
 import Home7 from '@/pages/Home7.vue'
-import Home8 from '@/pages/Home8.vue'
+import Home from '@/pages/Home8.vue'
 import Home9 from '@/pages/Home9.vue'
 import Home10 from '@/pages/Home10.vue'
+
 import HomeLight from '@/pages/HomeLight.vue'
 import Home2Light from '@/pages/Home2Light.vue'
 import Home3Light from '@/pages/Home3Light.vue'
@@ -29,8 +30,8 @@ import Error from '@/pages/Error.vue'
 import Register from '@/pages/Register.vue'
 import Signin from '@/pages/Signin.vue'
 import Teams from '@/pages/Teams.vue'
+import News from '@/pages/News.vue'
 import Blog from '@/pages/Blog.vue'
-import BlogTwo from '@/pages/BlogTwo.vue'
 import BlogSingle from '@/pages/BlogSingle.vue'
 import Contact from '@/pages/Contact.vue'
 import Try from '@/pages/Try.vue'
@@ -76,9 +77,9 @@ export default new Router({
             component: Home7,
         },
         {
-            path: '/digital_agency',
-            name: 'Home Eight',
-            component: Home8,
+            path: '/voice_over',
+            name: 'Voice Over',
+            component: VoiceOver,
         },
         {
             path: '/video_creation',
@@ -176,14 +177,14 @@ export default new Router({
             component: Teams,
         },
         {
+            path: '/news',
+            name: 'News',
+            component: News,
+        },
+        {
             path: '/blog',
             name: 'Blog',
             component: Blog,
-        },
-        {
-            path: '/blog-two',
-            name: 'Blog Two',
-            component: BlogTwo,
         },
         {
             path: '/blog-details',

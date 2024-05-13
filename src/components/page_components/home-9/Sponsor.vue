@@ -5,7 +5,7 @@
                 <div class="col-12">
                     <div class="sponsor__inner wow fadeInUp" data-wow-duration="600ms">
                         <div class="section__header">
-                            <h4 class="h4">Trusted by 2000+ companies</h4>
+                            <h4 class="h4">Aim to Serve More Than 200+ Companies</h4>
                         </div>
                         <div class="row">
                             <div class="col-12">

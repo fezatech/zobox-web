@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<div class="my-app">
-			<Header :logo-src="require('@/assets/images/logo.png')" />
+			<Header :logo-src="require('@/assets/images/logo-black.png')" />
 			<PageHeader page-title="Get Started" />
 			<Cases />
 			<FAQ />

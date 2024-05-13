@@ -7,7 +7,7 @@
                         <div class="row align-items-center items-gap">
                             <div class="col-12 col-lg-8">
                                 <h2 class="h1 wow fadeInUp" data-wow-duration="600ms">
-                                    what we do
+                                    WHAT WE DO ?
                                 </h2>
                             </div>
                             <div class="col-12 col-lg-4">
@@ -30,97 +30,109 @@
                         <div class="swiper-wrapper">
                             <div class="case__slider-single-h-e swiper-slide">
                                 <div class="content">
-                                    <h4 class="h4">software development</h4>
+                                    <h4 class="h4">ZOBOX-LLM</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
                                     </p>
                                     <router-link to="/use-case-details">
-                                        learn more
+                                        Learn More
                                     </router-link>
                                 </div>
                             </div>
                             <div class="case__slider-single-h-e swiper-slide">
                                 <div class="content">
-                                    <h4 class="h4">web development</h4>
+                                    <h4 class="h4">Presentation Maker</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
                                     </p>
                                     <router-link to="/use-case-details">
-                                        learn more
+                                        Learn More
                                     </router-link>
                                 </div>
                             </div>
                             <div class="case__slider-single-h-e swiper-slide">
                                 <div class="content">
-                                    <h4 class="h4">UX/UI design</h4>
+                                    <h4 class="h4">Personel IVR System</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
                                     </p>
                                     <router-link to="/use-case-details">
-                                        learn more
+                                        Learn More
                                     </router-link>
                                 </div>
                             </div>
                             <div class="case__slider-single-h-e swiper-slide">
                                 <div class="content">
-                                    <h4 class="h4">Search Engine Opti</h4>
+                                    <h4 class="h4">Image Generator</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
                                     </p>
                                     <router-link to="/use-case-details">
-                                        learn more
+                                        Learn More
                                     </router-link>
                                 </div>
                             </div>
                             <div class="case__slider-single-h-e swiper-slide">
                                 <div class="content">
-                                    <h4 class="h4">software development</h4>
+                                    <h4 class="h4">Visual Tools</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
                                     </p>
                                     <router-link to="/use-case-details">
-                                        learn more
+                                        Learn More
                                     </router-link>
                                 </div>
                             </div>
                             <div class="case__slider-single-h-e swiper-slide">
                                 <div class="content">
-                                    <h4 class="h4">web development</h4>
+                                    <h4 class="h4">Resume Builder</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
                                     </p>
                                     <router-link to="/use-case-details">
-                                        learn more
+                                        Learn More
                                     </router-link>
                                 </div>
                             </div>
                             <div class="case__slider-single-h-e swiper-slide">
                                 <div class="content">
-                                    <h4 class="h4">UX/UI design</h4>
+                                    <h4 class="h4">Royalty Free Image Gen/Finder</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
                                     </p>
                                     <router-link to="/use-case-details">
-                                        learn more
+                                        Learn More
                                     </router-link>
                                 </div>
                             </div>
                             <div class="case__slider-single-h-e swiper-slide">
                                 <div class="content">
-                                    <h4 class="h4">Search Engine Opti</h4>
+                                    <h4 class="h4">Code Assistant</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
                                     </p>
                                     <router-link to="/use-case-details">
-                                        learn more
+                                        Learn More
+                                    </router-link>
+                                </div>
+                            </div>
+                            <div class="case__slider-single-h-e swiper-slide">
+                                <div class="content">
+                                    <h4 class="h4">Screenshot to Code</h4>
+                                    <p>
+                                        Have you ever imagined being able to ask for information, advice, and ideas, all
+                                        enriched by generated code?
+                                    </p>
+                                    <router-link to="/use-case-details">
+                                        Learn More
                                     </router-link>
                                 </div>
                             </div>

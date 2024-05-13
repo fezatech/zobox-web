@@ -18,7 +18,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 1.4K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -37,7 +37,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.2K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -56,7 +56,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 1.2K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -75,7 +75,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.5K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -94,7 +94,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.8K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -113,7 +113,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.1K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -132,7 +132,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 1.9K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -155,7 +155,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 1.4K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -174,7 +174,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.4K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -193,7 +193,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.6K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -212,7 +212,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.4K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -231,7 +231,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.3K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -250,7 +250,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.7K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -273,7 +273,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 1.2K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -292,7 +292,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.5K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -311,7 +311,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 1.4K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -330,7 +330,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.1K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -349,7 +349,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 2.1K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -368,7 +368,7 @@
                                 <div class="foot-wrap">
                                     <div class="foot">
                                         <span>
-                                            Download: 2.4K
+                                            Download: 0.4K
                                         </span>
                                         <button>
                                             <i class="fa-solid fa-heart"></i>
@@ -402,13 +402,6 @@
                     </div>
                 </div>
             </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="collection-cta text-center">
-                        <button class="btn btn-fo">Load More</button>
-                    </div>
-                </div>
-            </div>
         </div>
     </section>
 </template>
@@ -418,3 +411,4 @@
         name: "Collection",
     }
 </script>
+

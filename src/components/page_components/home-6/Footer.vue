@@ -4,16 +4,16 @@
             <div class="row items-gap-two">
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="footer__single wow fadeInUp" data-wow-duration="600ms">
-                        <h5 class="h5">our Products</h5>
+                        <h5 class="h5">Our Products</h5>
                         <ul>
                             <li>
-                                <a href="javascript:void(0)"> AI Article Writer</a>
+                                <a href="javascript:void(0)"> ZOBOX-LLM</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)"> Image background remover</a>
+                                <a href="javascript:void(0)"> Image Background Remover</a>
                             </li>
                             <li>
-                                <a href="javascript:void(0)"> audio voice over AI</a>
+                                <a href="javascript:void(0)"> Audio Voice Over AI</a>
                             </li>
                             <li>
                                 <a href="javascript:void(0)"> Text Summarizer AI</a>
@@ -26,7 +26,7 @@
                 </div>
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="footer__single wow fadeInUp" data-wow-duration="600ms" data-wow-delay="200ms">
-                        <h5 class="h5">About tech AI</h5>
+                        <h5 class="h5">About ZOBOX.AI</h5>
                         <ul>
                             <li>
                                 <a href="javascript:void(0)">About</a>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="footer__single wow fadeInUp" data-wow-duration="600ms" data-wow-delay="600ms">
-                        <h5 class="h5">support</h5>
+                        <h5 class="h5">Support</h5>
                         <ul>
                             <li>
                                 <a href="javascript:void(0)">Privacy Policy</a>
@@ -109,23 +109,22 @@
                                     <p class="text-center">
                                         Copyright &copy;
                                         <span id="copyYear"></span>
-                                        <router-link to="/">techAI</router-link>
-                                        . Designed By
-                                        <a href="https://themeforest.net/user/gramentheme">Gramentheme</a>
+                                        <router-link to="/">ZOBOX.AI</router-link>
                                     </p>
                                 </div>
                                 <div class="col-12 col-lg-3">
                                     <div class="social justify-content-center justify-content-lg-end">
-                                        <a href="https://www.facebook.com" aria-label="social media">
-                                            <i class="fa-brands fa-facebook-f"></i>
+                                        <a href="https://github.com/feza.tech" aria-label="social media">
+                                            <i class="fa-brands fa-github"></i>
                                         </a>
-                                        <a href="https://www.twitter.com" aria-label="social media">
+                                        <a href="https://twitter.com/feza.tech" aria-label="social media">
                                             <i class="fa-brands fa-twitter"></i>
                                         </a>
-                                        <a href="https://www.linkedin.com" aria-label="social media">
+                                        <a href="https://www.linkedin.com/company/fezateknoloji"
+                                            aria-label="social media">
                                             <i class="fa-brands fa-linkedin-in"></i>
                                         </a>
-                                        <a href="https://www.instagram.com" aria-label="social media">
+                                        <a href="https://www.instagram.com/feza.tech" aria-label="social media">
                                             <i class="fa-brands fa-instagram"></i>
                                         </a>
                                     </div>
@@ -140,25 +139,25 @@
 </template>
 
 <script>
-    export default {
-        name: "Footer",
-        mounted() {
-            document.getElementById('copyYear').textContent = new Date().getFullYear();
+export default {
+    name: "Footer",
+    mounted() {
+        document.getElementById('copyYear').textContent = new Date().getFullYear();
+    },
+    props: {
+        LogoSrc: {
+            type: String,
+            required: true,
         },
-        props: {
-            LogoSrc: {
-                type: String,
-                required: true,
-            },
-        },
-    };
+    },
+};
 </script>
 
 <style scoped>
-    .bg-img.fer {
-        background-image: url('~@/assets/images/home-six/ft.png');
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-position: center center;
-    }
+.bg-img.fer {
+    background-image: url('~@/assets/images/home-six/ft.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
 </style>

@@ -16,7 +16,7 @@
                         </div>
                         <h5 class="h5">
                             <router-link to="/use-case-single">
-                                TechAI ChatGPT API
+                                ZOBOX-LLM API
                                 <i class="tech-arrow-top">
                                 </i>
                             </router-link>
@@ -30,7 +30,7 @@
                         </div>
                         <h5 class="h5">
                             <router-link to="/use-case-single">
-                                AI text geerator tool
+                                AI Text Generator Tool
                                 <i class="tech-arrow-top">
                                 </i>
                             </router-link>
@@ -44,7 +44,7 @@
                         </div>
                         <h5 class="h5">
                             <router-link to="/use-case-single">
-                                Paraphrasing tool
+                                Paraphrasing Tool
                                 <i class="tech-arrow-top">
                                 </i>
                             </router-link>
@@ -58,7 +58,7 @@
                         </div>
                         <h5 class="h5">
                             <router-link to="/use-case-single">
-                                text summarizer
+                                Text Summarizer
                                 <i class="tech-arrow-top">
                                 </i>
                             </router-link>

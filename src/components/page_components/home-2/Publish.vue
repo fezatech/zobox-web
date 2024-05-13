@@ -21,8 +21,7 @@
                                     <div class="content">
                                         <h5 class="h5">Write better content faster</h5>
                                         <p>
-                                            create unique and well organized full length articles
-                                            from start to finish
+                                            Write content faster and more understandable content
                                         </p>
                                     </div>
                                 </div>
@@ -34,10 +33,9 @@
                                         <i class="fa-solid fa-square-check"></i>
                                     </div>
                                     <div class="content">
-                                        <h5 class="h5">Goodbye’ to the blank page</h5>
+                                        <h5 class="h5">Like a human content</h5>
                                         <p>
-                                            create unique and well organized full length articles
-                                            from start to finish
+                                            Create unique and well organized full text like human
                                         </p>
                                     </div>
                                 </div>
@@ -49,10 +47,9 @@
                                         <i class="fa-solid fa-square-check"></i>
                                     </div>
                                     <div class="content">
-                                        <h5 class="h5">90+ tools and templates</h5>
+                                        <h5 class="h5">Suitable for interaction</h5>
                                         <p>
-                                            create unique and well organized full length articles
-                                            from start to finish
+                                            Content production suitable for interaction and SEO alignment
                                         </p>
                                     </div>
                                 </div>

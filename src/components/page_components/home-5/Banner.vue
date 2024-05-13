@@ -5,7 +5,7 @@
                 <div class="col-12 col-lg-9">
                     <div class="banner-five__content text-center wow fadeInUp" data-wow-duration="600ms"
                         data-wow-delay="300ms">
-                        <p>Trusted by 2.5 million successful writers worldwide.</p>
+                        <p>Trusted by 2.5 million successful coders worldwide.</p>
                         <h2 class="h2-light">
                             Whatever you want to ask,
                             <span>our chat has the answers</span>

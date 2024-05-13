@@ -1,20 +1,26 @@
 <template>
     <footer class="footer footer-three section pb-0">
         <div class="container">
-            <div class="row items-gap-two">
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <div class="footer__single f-t-f mt-0 wow fadeInUp" data-wow-duration="600ms">
-                        <div class="logo">
-                            <router-link to="/">
-                                <img :src="LogoSrc" alt="Image">
-                            </router-link>
-                        </div>
-                        <p class="text-md">
-                            ZOBOX CV Maker helps users create an effective and unique resume.
-                            It is an application that provides the creation process.
-                        </p>
-                        <div class="social justify-content-start">
-                            <a href="https://github.com/feza.tech" aria-label="social media">
+            <div class="row items-gap align-items-center top-break wow fadeInUp" data-wow-duration="600ms"
+                data-wow-delay="300ms">
+                <div class="col-12 col-lg-3">
+                    <div class="logo">
+                        <router-link to="/">
+                            <img :src="LogoURL" alt="Image">
+                        </router-link>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 col-xxl-5 offset-xxl-1">
+                    <p>
+                        Video Creation Tool offers you the opportunity to create videos from scratch with the prompt you
+                        give to artificial intelligence. It offers the opportunity to edit as you wish from a single
+                        platform.
+                        We are currently working on it.
+                    </p>
+                </div>
+                <div class="col-12 col-lg-3">
+                    <div class="social justify-content-center justify-content-lg-end">
+                        <a href="https://github.com/feza.tech" aria-label="social media">
                             <i class="fa-brands fa-github"></i>
                         </a>
                         <a href="https://twitter.com/feza.tech" aria-label="social media">
@@ -26,7 +32,25 @@
                         <a href="https://www.instagram.com/feza.tech" aria-label="social media">
                             <i class="fa-brands fa-instagram"></i>
                         </a>
-                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr id="footer-break">
+            <div class="row items-gap-two">
+                <div class="col-12 col-sm-6 col-lg-3">
+                    <div class="footer__single wow fadeInUp" data-wow-duration="600ms">
+                        <h5 class="h5">Video Creation</h5>
+                        <ul>
+                            <li>
+                                <a href="javascript:void(0)"> Video Creator</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"> Video Prompt Maker</a>
+                            </li>
+                            <li>
+                                <a href="javascript:void(0)"> Video Edit</a>
+                            </li>
+                        </ul>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-lg-3">
@@ -34,41 +58,19 @@
                         <h5 class="h5">About ZOBOX.AI</h5>
                         <ul>
                             <li>
-                                <router-link to="/about">About</router-link>
+                                <a href="javascript:void(0)">About</a>
                             </li>
                             <li>
-                                <router-link to="/blog">Blog</router-link>
+                                <a href="javascript:void(0)">Blog</a>
                             </li>
                             <li>
-                                <router-link to="/sign-in">Sign in</router-link>
+                                <a href="javascript:void(0)">Sign in</a>
                             </li>
                             <li>
-                                <router-link to="/sign-up">Register</router-link>
+                                <a href="javascript:void(0)">Register</a>
                             </li>
                             <li>
-                                <router-link to="/contact-us">Contact</router-link>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <div class="footer__single wow fadeInUp" data-wow-duration="600ms" data-wow-delay="400ms">
-                        <h5 class="h5">Creativity</h5>
-                        <ul>
-                            <li>
-                                <router-link to="/use-case"> AI Photo Restorer</router-link>
-                            </li>
-                            <li>
-                                <router-link to="/use-case">Toongineer Cartoonizer</router-link>
-                            </li>
-                            <li>
-                                <router-link to="/use-case"> VansPortrait</router-link>
-                            </li>
-                            <li>
-                                <router-link to="/use-case"> AI Photo Colorizer</router-link>
-                            </li>
-                            <li>
-                                <router-link to="/use-case">AI Photo Retoucher</router-link>
+                                <a href="javascript:void(0)">Contact</a>
                             </li>
                         </ul>
                     </div>
@@ -78,19 +80,19 @@
                         <h5 class="h5">Support</h5>
                         <ul>
                             <li>
-                                <router-link to="/about">Privacy Policy</router-link>
+                                <a href="javascript:void(0)">Privacy Policy</a>
                             </li>
                             <li>
-                                <router-link to="/about">Terms of Service</router-link>
+                                <a href="javascript:void(0)">Terms of Service</a>
                             </li>
                             <li>
-                                <router-link to="/about">Cookie Policy</router-link>
+                                <a href="javascript:void(0)">Cookie Policy</a>
                             </li>
                             <li>
-                                <router-link to="/use-case">FAQ</router-link>
+                                <a href="javascript:void(0)">FAQ</a>
                             </li>
                             <li>
-                                <router-link to="/contact-us">Helpdesk</router-link>
+                                <a href="javascript:void(0)">Helpdesk</a>
                             </li>
                         </ul>
                     </div>
@@ -109,7 +111,7 @@
 
 <script>
 export default {
-    name: "Footer",
+    name: "Footer3",
     props: {
         LogoSrc: {
             type: String,
@@ -121,5 +123,8 @@ export default {
             return this.LogoSrc;
         },
     },
-}
+    mounted() {
+        document.getElementById('copyYear').textContent = new Date().getFullYear();
+    }
+};
 </script>

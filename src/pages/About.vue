@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<div class="my-app">
-			<Header :logo-src="require('@/assets/images/logo.png')" />
+			<Header :logo-src="require('@/assets/images/logo-black.png')" />
 			<PageHeader page-title="About Us" />
 			<Introduction />
 			<Sponsor />
@@ -35,7 +35,6 @@ export default {
 		Sponsor,
 		Benefits,
 		FAQ,
-		Review,
 		UpdateCTA,
 		Footer,
 		BackToTop

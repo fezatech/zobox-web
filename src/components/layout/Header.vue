@@ -18,16 +18,16 @@
 											AI Tools
 										</a>
 										<div class="nav__dropdown nav__dropdown--alt">
-											<ul>
+											<div class="navbar__responsive">
 												<a href="/">
 													<li class="atery" style="font-size: 28px;">
 														ZOBOX <br>AI TOOLS
 													</li>
 												</a>
-											</ul>
+											</div>
 											<ul>
 												<li>
-													<router-link to="/" class="nav__dropdown-item hide-nav">
+													<router-link to="/voice_over" class="nav__dropdown-item hide-nav">
 														Voice Over
 													</router-link>
 												</li>
@@ -78,7 +78,7 @@
 													</router-link>
 												</li>
 												<li>
-													<router-link to="/personel_consultan"
+													<router-link to="/personel_consultant"
 														class="nav__dropdown-item hide-nav">
 														Personal Consultant
 													</router-link>
@@ -99,17 +99,17 @@
 										</a>
 									</li>
 									<li class="nav__menu-item nav__menu-item--dropdown">
-										<a href="javascript:void(0)" class="nav__menu-link nav__menu-link--dropdown">
+										<a href="javascript:void(0)" class="nav__menu-link nav__menu-link--dro pdown">
 											News & Blog
 										</a>
 										<ul class="nav__dropdown">
 											<li>
-												<router-link to="/blog" class="nav__dropdown-item hide-nav">
+												<router-link to="/news" class="nav__dropdown-item hide-nav">
 													News
 												</router-link>
 											</li>
 											<li>
-												<router-link to="/blog-two" class="nav__dropdown-item hide-nav">
+												<router-link to="/blog" class="nav__dropdown-item hide-nav">
 													Blog
 												</router-link>
 											</li>

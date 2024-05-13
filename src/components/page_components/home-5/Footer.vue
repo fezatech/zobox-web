@@ -11,8 +11,6 @@
                             Copyright &copy;
                             <span id="copyYear"></span>
                             <router-link to="/">techAI</router-link>
-                            . Design By
-                            <a href="https://themeforest.net/user/gramentheme">Gramentheme</a>
                         </p>
                         <div class="social">
                             <a href="https://www.facebook.com" aria-label="social media">

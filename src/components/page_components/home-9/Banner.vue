@@ -7,13 +7,13 @@
                         <div class="row align-items-center">
                             <div class="col-12 col-xl-7">
                                 <div class="banner-nine__content">
-                                    <p>#1 AI video creation platform</p>
+                                    <p>#1 AI Video Creation Platform</p>
                                     <h1 class="h2-light">
                                         Create professional
-                                        videos in 15 minutes
+                                        videos in 5 minutes
                                     </h1>
                                     <ul>
-                                        <li>Turn text into speech in over 120 languages</li>
+                                        <li>Turn text into speech in multi languages</li>
                                         <li>No equipment or video editing skills</li>
                                     </ul>
                                     <div class="section__cta">

@@ -19,7 +19,7 @@
                             <router-link to="/contact-us" class="btn btn-fo">
                                 request a demo
                             </router-link>
-                            <router-link to="/teams" class="btn btn--secondary">
+                            <router-link to="/sign-up" class="btn btn--secondary">
                                 view all resume templates
                             </router-link>
                         </div>

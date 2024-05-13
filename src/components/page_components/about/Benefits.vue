@@ -7,7 +7,7 @@
                         <div class="row align-items-center items-gap">
                             <div class="col-12 col-lg-8 col-xl-6">
                                 <h2 class="h2 wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
-                                    Why and How Will ZOBOX AI Tools Affect You?
+                                    Why and how will ZOBOX AI Tools affect you?
                                 </h2>
                             </div>
                             <div class="col-12 col-lg-4 col-xl-6">

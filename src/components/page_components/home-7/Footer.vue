@@ -8,8 +8,7 @@
                             <img :src="LogoSrc" alt="Image">
                         </router-link>
                         <p>
-                            Over 3.1 million+ high quality stock images, videos and music shared by our talented
-                            community.
+                            Over 3.1 million+ high quality stock images, videos and music shared on all world.
                         </p>
                         <div class="social">
                             <a href="https://www.facebook.com" aria-label="social media">
@@ -100,9 +99,7 @@
                         <p>
                             Copyright &copy;
                             <span id="copyYear"></span>
-                            <router-link to="/">techAI</router-link>
-                            . Design By
-                            <a href="https://themeforest.net/user/gramentheme">Gramentheme</a>
+                            <router-link to="/">ZOBOX.AI</router-link>
                         </p>
                     </div>
                 </div>

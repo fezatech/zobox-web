@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="section__header wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
-                        <h2 class="h2">best tech AI Use Cases</h2>
+                        <h2 class="h2">Photo Edit Tool Use Cases</h2>
                     </div>
                 </div>
             </div>
@@ -13,53 +13,39 @@
                     <div class="generate__content wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
                         <div class="generate__content-btn generate__content-btn-active">
                             <div class="content">
-                                <h5 class="h5">For Ecommerce</h5>
+                                <h5 class="h5">Object Extraction from Images as Layers</h5>
                                 <p>
-                                    Drop the complex brushes and layers. Use techAI to remove
-                                    background from image in one click.
-                                </p>
-                                <p>
-                                    Drop the complex brushes and layers. Use techAI to remove
-                                    background from image in one click.
+                                    You can separate, remove, and complete objects in the uploaded image as layers using
+                                    artificial intelligence.
                                 </p>
                             </div>
                         </div>
                         <div class="generate__content-btn">
                             <div class="content">
-                                <h5 class="h5">For Car Dealerships</h5>
+                                <h5 class="h5">Basic Photo Editing Tools</h5>
                                 <p>
-                                    Drop the complex brushes and layers. Use techAI to remove
-                                    background from image in one click.
-                                </p>
-                                <p>
-                                    Drop the complex brushes and layers. Use techAI to remove
-                                    background from image in one click.
+                                    You can use all basic photo editing tools such as cropping, resizing, and sharpening
+                                    in a single interface.
                                 </p>
                             </div>
                         </div>
                         <div class="generate__content-btn">
                             <div class="content">
-                                <h5 class="h5">For ID Photo Maker</h5>
+                                <h5 class="h5">Unique Image Finder / Generator</h5>
                                 <p>
-                                    Drop the complex brushes and layers. Use techAI to remove
-                                    background from image in one click.
-                                </p>
-                                <p>
-                                    Drop the complex brushes and layers. Use techAI to remove
-                                    background from image in one click.
+                                    You can generate the most similar version of the image you need <a
+                                        style="text-decoration: underline;">royalty-free</a> or find it by searching <a
+                                        style="text-decoration: underline;">the entire internet</a>.
                                 </p>
                             </div>
                         </div>
                         <div class="generate__content-btn">
                             <div class="content">
-                                <h5 class="h5">For Real-Estate</h5>
+                                <h5 class="h5">Outputting - Transferring in Desired Formats</h5>
                                 <p>
-                                    Drop the complex brushes and layers. Use techAI to remove
-                                    background from image in one click.
-                                </p>
-                                <p>
-                                    Drop the complex brushes and layers. Use techAI to remove
-                                    background from image in one click.
+                                    You can output your created image in the desired format and transfer it to other
+                                    ZOBOX artificial intelligence tools such as <a
+                                        style="text-decoration: underline;">Presentation.ai, CV Maker</a>.
                                 </p>
                             </div>
                         </div>
@@ -111,100 +97,100 @@
 </template>
 
 <script>
-    export default {
-        name: "Generate",
-        mounted() {
-            document.querySelectorAll(".tab-content").forEach((content, index) => {
-                if (index !== 0) {
-                    content.style.display = "none";
-                }
-            });
+export default {
+    name: "Generate",
+    mounted() {
+        document.querySelectorAll(".tab-content").forEach((content, index) => {
+            if (index !== 0) {
+                content.style.display = "none";
+            }
+        });
 
-            document.querySelectorAll(".generate__content-btn").forEach((btn) => {
-                btn.addEventListener("click", function () {
-                    // Remove the 'active' class from all tab buttons
-                    document.querySelectorAll(".generate__content-btn").forEach((btn) => {
-                        btn.classList.remove("generate__content-btn-active");
-                    });
-
-                    // Hide all tab content
-                    document.querySelectorAll(".tab-content").forEach((content) => {
-                        content.style.display = "none";
-                    });
-
-                    // Add the 'active' class to the clicked tab button
-                    this.classList.add("generate__content-btn-active");
-
-                    // Get the index of the clicked tab button
-                    var tabIndex = Array.from(this.parentNode.children).indexOf(this);
-
-                    // Show the corresponding tab content with fade-in animation
-                    document.querySelectorAll(".tab-content")[tabIndex].style.display = "block";
+        document.querySelectorAll(".generate__content-btn").forEach((btn) => {
+            btn.addEventListener("click", function () {
+                // Remove the 'active' class from all tab buttons
+                document.querySelectorAll(".generate__content-btn").forEach((btn) => {
+                    btn.classList.remove("generate__content-btn-active");
                 });
+
+                // Hide all tab content
+                document.querySelectorAll(".tab-content").forEach((content) => {
+                    content.style.display = "none";
+                });
+
+                // Add the 'active' class to the clicked tab button
+                this.classList.add("generate__content-btn-active");
+
+                // Get the index of the clicked tab button
+                var tabIndex = Array.from(this.parentNode.children).indexOf(this);
+
+                // Show the corresponding tab content with fade-in animation
+                document.querySelectorAll(".tab-content")[tabIndex].style.display = "block";
             });
+        });
 
-            document.getElementById("ranguslider2").addEventListener("input", function (e) {
-                const sliderPos2 = e.target.value;
+        document.getElementById("ranguslider2").addEventListener("input", function (e) {
+            const sliderPos2 = e.target.value;
 
-                document.querySelector(".foreground-img-1").style.width = `${sliderPos2}%`;
-                document.querySelector(".rangu-slider-button3").style.left = `calc(${sliderPos2}% - 18px)`;
-            });
+            document.querySelector(".foreground-img-1").style.width = `${sliderPos2}%`;
+            document.querySelector(".rangu-slider-button3").style.left = `calc(${sliderPos2}% - 18px)`;
+        });
 
-            document.getElementById("ranguslider3").addEventListener("input", function (e) {
-                const sliderPos3 = e.target.value;
+        document.getElementById("ranguslider3").addEventListener("input", function (e) {
+            const sliderPos3 = e.target.value;
 
-                document.querySelector(".foreground-img3").style.width = `${sliderPos3}%`;
-                document.querySelector(".rangu-slider-button4").style.left = `calc(${sliderPos3}% - 18px)`;
-            });
+            document.querySelector(".foreground-img3").style.width = `${sliderPos3}%`;
+            document.querySelector(".rangu-slider-button4").style.left = `calc(${sliderPos3}% - 18px)`;
+        });
 
-            document.getElementById("ranguslider4").addEventListener("input", function (e) {
-                const sliderPos4 = e.target.value;
+        document.getElementById("ranguslider4").addEventListener("input", function (e) {
+            const sliderPos4 = e.target.value;
 
-                document.querySelector(".foreground-img4").style.width = `${sliderPos4}%`;
-                document.querySelector(".rangu-slider-button5").style.left = `calc(${sliderPos4}% - 18px)`;
-            });
+            document.querySelector(".foreground-img4").style.width = `${sliderPos4}%`;
+            document.querySelector(".rangu-slider-button5").style.left = `calc(${sliderPos4}% - 18px)`;
+        });
 
-            document.getElementById("ranguslider5").addEventListener("input", function (e) {
-                const sliderPos5 = e.target.value;
+        document.getElementById("ranguslider5").addEventListener("input", function (e) {
+            const sliderPos5 = e.target.value;
 
-                document.querySelector(".foreground-img5").style.width = `${sliderPos5}%`;
-                document.querySelector(".rangu-slider-button6").style.left = `calc(${sliderPos5}% - 18px)`;
-            });
+            document.querySelector(".foreground-img5").style.width = `${sliderPos5}%`;
+            document.querySelector(".rangu-slider-button6").style.left = `calc(${sliderPos5}% - 18px)`;
+        });
 
-        }
     }
+}
 </script>
 
 <style scoped>
-    .rangu-two .background-img {
-        background-image: url('~@/assets/images/after/two-before.png');
-    }
+.rangu-two .background-img {
+    background-image: url('~@/assets/images/after/two-before.png');
+}
 
-    .rangu-two .foreground-img3 {
-        background-image: url('~@/assets/images/after/two-after.png');
-    }
+.rangu-two .foreground-img3 {
+    background-image: url('~@/assets/images/after/two-after.png');
+}
 
-    .rangu-four .background-img {
-        background-image: url('~@/assets/images/after/four-before.png');
-    }
+.rangu-four .background-img {
+    background-image: url('~@/assets/images/after/four-before.png');
+}
 
-    .rangu-four .foreground-img5 {
-        background-image: url('~@/assets/images/after/four-after.png');
-    }
+.rangu-four .foreground-img5 {
+    background-image: url('~@/assets/images/after/four-after.png');
+}
 
-    .rangu-three .background-img {
-        background-image: url('~@/assets/images/after/three-before.png');
-    }
+.rangu-three .background-img {
+    background-image: url('~@/assets/images/after/three-before.png');
+}
 
-    .rangu-three .foreground-img4 {
-        background-image: url('~@/assets/images/after/three-after.png');
-    }
+.rangu-three .foreground-img4 {
+    background-image: url('~@/assets/images/after/three-after.png');
+}
 
-    .rangu-one .background-img {
-        background-image: url('~@/assets/images/after/one-before.png');
-    }
+.rangu-one .background-img {
+    background-image: url('~@/assets/images/after/one-before.png');
+}
 
-    .rangu-one .foreground-img-1 {
-        background-image: url('~@/assets/images/after/one-after.png');
-    }
+.rangu-one .foreground-img-1 {
+    background-image: url('~@/assets/images/after/one-after.png');
+}
 </style>

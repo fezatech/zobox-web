@@ -116,7 +116,7 @@
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/canada.png')" alt="Image">
                         </div>
-                        <p class="fw-5">canada english</p>
+                        <p class="fw-5">Canada English</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
@@ -128,67 +128,67 @@
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/uk.png')" alt="Image">
                         </div>
-                        <p class="fw-5">british english</p>
+                        <p class="fw-5">British English</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/irish.png')" alt="Image">
                         </div>
-                        <p class="fw-5">irish english</p>
+                        <p class="fw-5">Irish English</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/turkish.png')" alt="Image">
                         </div>
-                        <p class="fw-5">turkish</p>
+                        <p class="fw-5">Turkish</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/italy.png')" alt="Image">
                         </div>
-                        <p class="fw-5">italian</p>
+                        <p class="fw-5">Italian</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/french.png')" alt="Image">
                         </div>
-                        <p class="fw-5">french</p>
+                        <p class="fw-5">French</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/japan.png')" alt="Image">
                         </div>
-                        <p class="fw-5">japanese</p>
+                        <p class="fw-5">Japanese</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/china.png')" alt="Image">
                         </div>
-                        <p class="fw-5">chinese</p>
+                        <p class="fw-5">Chinese</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/india.png')" alt="Image">
                         </div>
-                        <p class="fw-5">hindi</p>
+                        <p class="fw-5">Hindi</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/bangladesh.png')" alt="Image">
                         </div>
-                        <p class="fw-5">bengali</p>
+                        <p class="fw-5">Bengali</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/malay.png')" alt="Image">
                         </div>
-                        <p class="fw-5">malay</p>
+                        <p class="fw-5">Malay</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">
                             <img :src="require('@/assets/images/flag/filipine.png')" alt="Image">
                         </div>
-                        <p class="fw-5">filipino</p>
+                        <p class="fw-5">Filipino</p>
                     </div>
                     <div class="language__slider-single swiper-slide">
                         <div class="thumb">

@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="my-app home-six home-six-dark">
-            <Header class="header--light" :logo-src="require('@/assets/images/home-six/logo.png')"/>
+            <Header class="header--light" :logo-src="require('@/assets/images/logo.png')"/>
             <MobileMenu />
             <Banner />
             <Sponsor />
@@ -12,7 +12,7 @@
             <Feedback2 />
             <FAQ />
             <CTA />
-            <Footer :logo-src="require('@/assets/images/home-six/logo.png')"/>
+            <Footer :logo-src="require('@/assets/images/logo.png')"/>
         </div>
         <BackToTop />
     </div>
@@ -40,10 +40,7 @@ import BackToTop from '../components/common/BackToTop.vue'
             Banner,
             Sponsor,
             Features,
-            FeatureTabs,
-            Pricing,
             Feedback,
-            Feedback2,
             FAQ,
             CTA,
             Footer,

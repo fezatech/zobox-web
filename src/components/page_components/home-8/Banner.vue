@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-12 col-xl-10">
                     <div class="banner-eight__content wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
-                        <h1>Smart Innovation Through AI</h1>
+                        <h1>Smart Innovation Through ZOBOX</h1>
                     </div>
                 </div>
                 <div class="col-12 col-lg-2 d-none d-xl-block">
@@ -21,9 +21,8 @@
                 </div>
                 <div class="col-12 col-lg-7">
                     <div class="banner-eight__content-two">
-                        <p class="text-xl">We leverage the power of artificial intelligence to build cognitive
-                            solutions, products, and platforms that help businesses automate their operations and solve
-                            their challenges.</p>
+                        <p class="text-xl">We combine AI-driven cognitive solutions and products on a single platform
+                            that helps businesses automate their operations and solve the challenges their face.</p>
                     </div>
                 </div>
             </div>
@@ -38,7 +37,7 @@
 </template>
 
 <script>
-    export default {
-        name: "Banner",
-    }
+export default {
+    name: "Banner",
+}
 </script>

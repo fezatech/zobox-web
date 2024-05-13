@@ -4,7 +4,7 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-xl-6">
                     <div class="section__header wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
-                        <h2 class="h2">client's feedback</h2>
+                        <h2 class="h2">Client's Feedback</h2>
                     </div>
                 </div>
             </div>
@@ -29,10 +29,9 @@
                             </div>
                         </div>
                         <div class="h-s-f-single">
-                            <p class="text-md fw-7">Need Single page site design</p>
+                            <p class="text-md fw-7">About ZOBOX Code Master</p>
                             <blockquote>
-                                <q>"He is a good designer with UI/UX experience. He has compiled my landing page in a
-                                    good looking way."</q>
+                                <q>ZOBOX-LLM enables us to save thousands of seconds per week. It has really easier usage.</q>
                             </blockquote>
                             <div class="rti">
                                 <div class="review__icons">
@@ -42,16 +41,16 @@
                                     <i class="fa-solid fa-star"></i>
                                     <i class="fa-solid fa-star"></i>
                                 </div>
-                                <p>
+                                <!-- <p>
                                     <span>luwise</span>
                                     london, UK
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="h-s-f-single brt">
-                            <p class="text-md fw-7">Need Single page site design</p>
+                            <p class="text-md fw-7">About ZOBOX Code Master</p>
                             <blockquote>
-                                <q>"He is a good designer with UI/UX experience. He has compiled my landing page."</q>
+                                <q>ZOBOX's translation capabilities truly surprised me! It's definitely an excellent tool!</q>
                             </blockquote>
                             <div class="rti">
                                 <div class="review__icons">
@@ -61,16 +60,16 @@
                                     <i class="fa-solid fa-star"></i>
                                     <i class="fa-solid fa-star"></i>
                                 </div>
-                                <p>
+                                <!-- <p>
                                     <span>luwise</span>
                                     london, UK
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="h-s-f-single brt">
-                            <p class="text-md fw-7">Need Single page site design</p>
+                            <p class="text-md fw-7">About ZOBOX Code Master</p>
                             <blockquote>
-                                <q>"He is a good designer with UI/UX experience. He has compiled my landing page."</q>
+                                <q>"ZOBOX.AI's text generation abilities are truly impressive. The content creation process is both more enjoyable and more efficient!"</q>
                             </blockquote>
                             <div class="rti">
                                 <div class="review__icons">
@@ -80,17 +79,16 @@
                                     <i class="fa-solid fa-star"></i>
                                     <i class="fa-solid fa-star"></i>
                                 </div>
-                                <p>
+                                <!-- <p>
                                     <span>luwise</span>
                                     london, UK
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                         <div class="h-s-f-single">
-                            <p class="text-md fw-7">Need Single page site design</p>
+                            <p class="text-md fw-7">About ZOBOX Code Master</p>
                             <blockquote>
-                                <q>"He is a good designer with UI/UX experience. He has compiled my landing page in a
-                                    good looking way."</q>
+                                <q>I'm really excited to explore ZOBOX.AI's potential on social media. It has become much easier.</q>
                             </blockquote>
                             <div class="rti">
                                 <div class="review__icons">
@@ -100,10 +98,10 @@
                                     <i class="fa-solid fa-star"></i>
                                     <i class="fa-solid fa-star"></i>
                                 </div>
-                                <p>
+                                <!-- <p>
                                     <span>luwise</span>
                                     london, UK
-                                </p>
+                                </p> -->
                             </div>
                         </div>
                     </div>

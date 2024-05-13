@@ -4,9 +4,9 @@
             <div class="row justify-content-center">
                 <div class="col-12 col-xl-9">
                     <div class="banner-two__content wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
-                        <h1 class="h1">best ai writer for creating</h1>
+                        <h1 class="h1">The Best Creative AI Writer</h1>
                         <h2 class="h1">
-                            <span id="textTyped" >facebook posts</span>
+                            <span id="textTyped" >Social Media posts</span>
                         </h2>
                         <p class="text-lg">
                             Create human-quality blog posts, SEO articles, news, press
@@ -16,7 +16,7 @@
                             <router-link to="/sign-up" class="btn btn--senary">
                                 start writing free
                             </router-link>
-                            <p>7-day trial. No credit card required.</p>
+                            <p>Free trial. No credit card required.</p>
                         </div>
                     </div>
                 </div>

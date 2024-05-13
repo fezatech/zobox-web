@@ -7,7 +7,7 @@
                         <div class="section__header text-start">
                             <h2 class="h2">
                                 Generate content in seconds using
-                                <span class="grd">Tech AI</span>
+                                <span class="grd">ZOBOX AI</span>
                             </h2>
                         </div>
                         <div>
@@ -16,10 +16,9 @@
                                     <i class="tech-pen"></i>
                                 </div>
                                 <div class="content">
-                                    <h5 class="h5">blog article</h5>
+                                    <h5 class="h5">Blog Article</h5>
                                     <p>
-                                        create unique and well organized full length articles
-                                        from start to finish
+                                        Clear and effective editing options for your blog posts
                                     </p>
                                 </div>
                             </div>
@@ -28,10 +27,9 @@
                                     <i class="tech-cart"></i>
                                 </div>
                                 <div class="content">
-                                    <h5 class="h5">eCommerce content</h5>
+                                    <h5 class="h5">E-Commerce Content</h5>
                                     <p>
-                                        create unique and well organized full length articles
-                                        from start to finish
+                                        Content production tailored to your e-commerce strategy
                                     </p>
                                 </div>
                             </div>
@@ -40,10 +38,9 @@
                                     <i class="tech-mike"></i>
                                 </div>
                                 <div class="content">
-                                    <h5 class="h5">paids add & social media</h5>
+                                    <h5 class="h5">Social Media Trends</h5>
                                     <p>
-                                        create unique and well organized full length articles
-                                        from start to finish
+                                        Content production suitable for social media interactions
                                     </p>
                                 </div>
                             </div>
@@ -54,11 +51,11 @@
                                 <div class="content">
                                     <h5 class="h5">Website Content</h5>
                                     <p>
-                                        create unique and well organized full length articles
-                                        from start to finish
+                                        Optimal SEO choices for your website
                                     </p>
                                 </div>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -90,37 +87,37 @@
 </template>
 
 <script>
-    export default {
-        name: "Generate",
-        mounted() {
-            const tabContents = document.querySelectorAll('.tab-content');
-            const tabButtons = document.querySelectorAll('.generate__content-btn');
+export default {
+    name: "Generate",
+    mounted() {
+        const tabContents = document.querySelectorAll('.tab-content');
+        const tabButtons = document.querySelectorAll('.generate__content-btn');
 
-            // Show the first tab content and add 'active' class to the first tab button
-            tabContents[0].style.display = 'block';
-            tabButtons[0].classList.add('generate__content-btn-active');
+        // Show the first tab content and add 'active' class to the first tab button
+        tabContents[0].style.display = 'block';
+        tabButtons[0].classList.add('generate__content-btn-active');
 
-            // Add click event listeners to the tab buttons
-            tabButtons.forEach((button, index) => {
-                button.addEventListener('click', () => {
-                    // Remove 'active' class from all tab buttons and hide all tab contents
-                    tabButtons.forEach((btn) => btn.classList.remove('generate__content-btn-active'));
-                    tabContents.forEach((content) => content.style.display = 'none');
+        // Add click event listeners to the tab buttons
+        tabButtons.forEach((button, index) => {
+            button.addEventListener('click', () => {
+                // Remove 'active' class from all tab buttons and hide all tab contents
+                tabButtons.forEach((btn) => btn.classList.remove('generate__content-btn-active'));
+                tabContents.forEach((content) => content.style.display = 'none');
 
-                    // Add 'active' class to the clicked tab button
-                    button.classList.add('generate__content-btn-active');
+                // Add 'active' class to the clicked tab button
+                button.classList.add('generate__content-btn-active');
 
-                    // Show the corresponding tab content with fade-in animation
-                    tabContents[index].style.display = 'block';
-                    tabContents[index].style.animation = 'fadeIn 900ms'; // Add your own fadeIn animation here
-                });
+                // Show the corresponding tab content with fade-in animation
+                tabContents[index].style.display = 'block';
+                tabContents[index].style.animation = 'fadeIn 900ms'; // Add your own fadeIn animation here
             });
-        }
+        });
     }
+}
 </script>
 
 <style scoped>
-    .tab-content {
-        display: none;
-    }
+.tab-content {
+    display: none;
+}
 </style>

@@ -7,7 +7,7 @@
                         <div class="row align-items-center items-gap">
                             <div class="col-12 col-lg-8">
                                 <h2 class="h2 wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
-                                    Explore More AI Products from tech AI
+                                    Explore More AI Products from ZOBOX
                                 </h2>
                             </div>
                             <div class="col-12 col-lg-4">
@@ -33,8 +33,7 @@
                                     </h5>
                                     <p>
                                         Convert videos to visually striking cartoons in only a
-                                        couple of clicks. 100% Automatically and FREE! Animate
-                                        your video now!
+                                        couple of clicks. 100% Automatically and FREE! But it will be coming soon!
                                     </p>
                                 </div>
                             </div>
@@ -46,12 +45,10 @@
                                 </div>
                                 <div class="content">
                                     <h5 class="h5">
-                                        <a href="javascript:void(0)">AI image compressed</a>
+                                        <a href="javascript:void(0)">AI Image Creator</a>
                                     </h5>
                                     <p>
-                                        Convert videos to visually striking cartoons in only a
-                                        couple of clicks. 100% Automatically and FREE! Animate
-                                        your video now!
+                                        Create the image you want by simply entering the prompt and use it comfortably wherever you want!
                                     </p>
                                 </div>
                             </div>
@@ -63,12 +60,10 @@
                                 </div>
                                 <div class="content">
                                     <h5 class="h5">
-                                        <a href="javascript:void(0)">video object remover</a>
+                                        <a href="javascript:void(0)">Video Object Remover</a>
                                     </h5>
                                     <p>
-                                        Convert videos to visually striking cartoons in only a
-                                        couple of clicks. 100% Automatically and FREE! Animate
-                                        your video now!
+                                        With artificial intelligence, we track the object you want by examining it frame by frame and work to remove it. Coming Soon!
                                     </p>
                                 </div>
                             </div>
@@ -84,8 +79,7 @@
                                     </h5>
                                     <p>
                                         Convert videos to visually striking cartoons in only a
-                                        couple of clicks. 100% Automatically and FREE! Animate
-                                        your video now!
+                                        couple of clicks. 100% Automatically and FREE! But it will be coming soon!
                                     </p>
                                 </div>
                             </div>
@@ -97,12 +91,10 @@
                                 </div>
                                 <div class="content">
                                     <h5 class="h5">
-                                        <a href="javascript:void(0)">AI image compressed</a>
+                                        <a href="javascript:void(0)">AI Image Creator</a>
                                     </h5>
                                     <p>
-                                        Convert videos to visually striking cartoons in only a
-                                        couple of clicks. 100% Automatically and FREE! Animate
-                                        your video now!
+                                        Create the image you want by simply entering the prompt and use it comfortably wherever you want!
                                     </p>
                                 </div>
                             </div>
@@ -114,12 +106,10 @@
                                 </div>
                                 <div class="content">
                                     <h5 class="h5">
-                                        <a href="javascript:void(0)">video object remover</a>
+                                        <a href="javascript:void(0)">Video Object Remover</a>
                                     </h5>
                                     <p>
-                                        Convert videos to visually striking cartoons in only a
-                                        couple of clicks. 100% Automatically and FREE! Animate
-                                        your video now!
+                                        With artificial intelligence, we track the object you want by examining it frame by frame and work to remove it. Coming Soon!
                                     </p>
                                 </div>
                             </div>

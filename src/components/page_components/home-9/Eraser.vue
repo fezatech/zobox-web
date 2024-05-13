@@ -7,7 +7,7 @@
                         <div class="row align-items-center items-gap">
                             <div class="col-12 col-lg-8 col-xl-6">
                                 <h2 class="h2 wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
-                                    Why tech AI Background Eraser Will Impress You?
+                                    Why ZOBOX.AI Will Impress You?
                                 </h2>
                             </div>
                             <div class="col-12 col-lg-4 col-xl-6">
@@ -118,20 +118,6 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-12">
-                    <div class="eraser-cta">
-                        <div class="er-inner">
-                            <button aria-label="upload image" class="btn btn--ocotonary">
-                                <i class="fa-solid fa-plus"></i>
-                                upload your image
-                            </button>
-                            <input type="file" name="upload-image" id="uploadImage">
-                        </div>
-                        <p>or drop an image file (.jpeg, .png) (Max size 1Mb)</p>
                     </div>
                 </div>
             </div>

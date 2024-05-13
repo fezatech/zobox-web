@@ -3,8 +3,8 @@
         <div class="container">
             <div class="text-center">
                 <p>
-                    Introducing Chat by tech.ai: Whatever you need, just ask it.
-                    <router-link to="/about">learn more</router-link>
+                    Introducing Chat by ZOBOX.AI: Whatever you need, just ask it.
+                    <router-link to="/about">Learn More</router-link>
                 </p>
             </div>
         </div>

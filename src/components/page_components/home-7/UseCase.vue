@@ -1,20 +1,100 @@
 <template>
-    <section class="language pb-0">
-        <div class="language__slider">
+<section class="language pb-0">
+    <div class="language__slider">
+        <div class="swiper-wrapper">
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Food &amp; Drink
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Technology
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Business &amp; Office
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Wallpapers
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Beauty &amp; Fashion
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Home Decore
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Interior Design
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Sky Dive Human
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Air Business Class
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Friends Hangouts
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Luxury Hotel
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Wedding Couple
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Winter Nature
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    4K Wallpaper
+                </router-link>
+            </div>
+            <div class="language__slider-single swiper-slide">
+                <router-link to="/use-case">
+                    Games
+                </router-link>
+            </div>
+        </div>
+    </div>
+    <div dir="rtl">
+        <div class="language__slider-rtl">
             <div class="swiper-wrapper">
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        Food & Drink
+                        Food &amp; Drink
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        technology
+                        Technology
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        business & Office
+                        Business &amp; Office
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
@@ -24,22 +104,22 @@
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        beauty & fashion
+                        Beauty &amp; Fashion
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        Home decore
+                        Home Decore
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        Interior design
+                        Interior Design
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        Sky Dive human
+                        Sky Dive Human
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
@@ -54,22 +134,22 @@
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        luxury Hotel
+                        Luxury Hotel
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        Wedding couple
+                        Wedding Couple
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        winter nature
+                        Winter Nature
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
                     <router-link to="/use-case">
-                        4K wallpaper
+                        4K Wallpaper
                     </router-link>
                 </div>
                 <div class="language__slider-single swiper-slide">
@@ -79,88 +159,9 @@
                 </div>
             </div>
         </div>
-        <div dir="rtl">
-            <div class="language__slider-rtl">
-                <div class="swiper-wrapper">
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Food & Drink
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            technology
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            business & Office
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Wallpapers
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            beauty & fashion
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Home decore
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Interior design
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Sky Dive human
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Air Business Class
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Friends Hangouts
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            luxury Hotel
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Wedding couple
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            winter nature
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            4K wallpaper
-                        </router-link>
-                    </div>
-                    <div class="language__slider-single swiper-slide">
-                        <router-link to="/use-case">
-                            Games
-                        </router-link>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    </div>
+</section>
+
 </template>
 
 <script scoped>

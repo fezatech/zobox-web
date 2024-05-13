@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="my-app">
-            <Header :logo-src="require('@/assets/images/logo.png')" />
+            <Header :logo-src="require('@/assets/images/logo-black.png')" />
             <PageHeader page-title="Contact Us" />
             <section class="section contact-main">
                 <div class="container">
@@ -14,8 +14,7 @@
                                     <span>Let's talk.</span>
                                 </h2>
                                 <p>
-                                    Adipiscing elit, sed do eiusmod tempor incididunt ut labore et
-                                    dolore magna aliqua. Ut enim ad minim.
+                                    If you have any improvements or ideas, please contact with us.
                                 </p>
                                 <div class="arrow">
                                     <img :src="require('@/assets/images/arrow-contact.png')" alt="Image">

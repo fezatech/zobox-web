@@ -37,16 +37,21 @@
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#collapseOne" aria-expanded="true"
                                                     aria-controls="collapseOne">
-                                                    What is ChatGPT?
+                                                    What is ZOBOX?
                                                 </button>
                                             </h5>
                                             <div id="collapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="headingOne" data-bs-parent="#accordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        ZOBOX is a SaaS based AI platform that brings online artificial
+                                                        intelligence tools
+                                                        under a single platform. By enabling them to use these tools in
+                                                        an integrated
+                                                        manner, it makes business processes more effective and
+                                                        efficient. It also aims
+                                                        to
+                                                        maximize the user experience thanks to its history-based memory.
                                                     </p>
                                                 </div>
                                             </div>
@@ -57,17 +62,31 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseTwo"
                                                     aria-expanded="false" aria-controls="collapseTwo">
-                                                    How is Chatsonic different from ChatGPT by Open
-                                                    AI?
+                                                    How is Zobox different from other artificial intelligence
+                                                    applications?
                                                 </button>
                                             </h5>
                                             <div id="collapseTwo" class="accordion-collapse collapse"
                                                 aria-labelledby="headingTwo" data-bs-parent="#accordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        There are two main situations where ZOBOX has an advantage over
+                                                        its competitors:
+                                                        <br><br>
+                                                        - Seamlessly brings together artificial intelligence tools on a
+                                                        single platform
+                                                        <br>
+                                                    <p></p>
+                                                    - Paying attention to focusing on the specific needs of the sector
+                                                    and
+                                                    identifying
+                                                    and improving deficiencies
+                                                    <br><br>
+                                                    In short, ZOBOX focuses on the integration of vehicles and industry
+                                                    needs,
+                                                    offering
+                                                    its users more practical and effective solutions compared to its
+                                                    competitors.
                                                     </p>
                                                 </div>
                                             </div>
@@ -78,16 +97,28 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                     aria-expanded="false" aria-controls="collapseThree">
-                                                    What format are the files in?
+                                                    What applications do you plan for the platform?
                                                 </button>
                                             </h5>
                                             <div id="collapseThree" class="accordion-collapse collapse"
                                                 aria-labelledby="headingThree" data-bs-parent="#accordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        We carry out application development studies according to the
+                                                        use-case scenarios
+                                                        we
+                                                        have determined. In our current roadmap, we will integrate the
+                                                        following
+                                                        applications into our platform.<br><br>
+                                                        - Photo Edit Tool <br>
+                                                        - Resume Builder <br>
+                                                        - No-Code Chatbot <br>
+                                                        - Screenshot to Code <br>
+                                                        - Personel Consultant <br>
+                                                        - ZOBOX - LLM <br>
+                                                        - Code Master <br>
+                                                        - Image Generation <br>
+                                                        - Video Generation <br>
                                                     </p>
                                                 </div>
                                             </div>
@@ -102,16 +133,23 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#collapseFour"
                                                     aria-expanded="false" aria-controls="collapseFour">
-                                                    What is ChatGPT used for?
+                                                    How much do you use open source applications?
                                                 </button>
                                             </h5>
                                             <div id="collapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="headingFour" data-bs-parent="#accordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        In order to provide more efficient service in the context of the
+                                                        platform/application requirements we have developed, we receive
+                                                        support from
+                                                        different open source and paid applications after analysis
+                                                        studies. We aim to
+                                                        work
+                                                        in integration with the t3.aile platform, which is being
+                                                        developed in our
+                                                        country in
+                                                        the future.
                                                     </p>
                                                 </div>
                                             </div>
@@ -129,29 +167,8 @@
                                                 aria-labelledby="headingFive" data-bs-parent="#accordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="accordion-item content__space wow fadeInUp"
-                                            data-wow-duration="600ms" data-wow-delay="1500ms">
-                                            <h5 class="accordion-header" id="headingSix">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#collapseSix"
-                                                    aria-expanded="false" aria-controls="collapseSix">
-                                                    How do I add/change my profile picture?
-                                                </button>
-                                            </h5>
-                                            <div id="collapseSix" class="accordion-collapse collapse"
-                                                aria-labelledby="headingSix" data-bs-parent="#accordion">
-                                                <div class="accordion-body">
-                                                    <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        Of course. You can support us on this journey, either as an
+                                                        external software developer or by joining our team.
                                                     </p>
                                                 </div>
                                             </div>
@@ -172,16 +189,22 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#membercollapseFour"
                                                     aria-expanded="false" aria-controls="membercollapseFour">
-                                                    What is ChatGPT used for?
+                                                    What is ZOBOX?
                                                 </button>
                                             </h5>
                                             <div id="membercollapseFour" class="accordion-collapse collapse"
                                                 aria-labelledby="memberheadingFour" data-bs-parent="#memberaccordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        ZOBOX is a SaaS based AI platform that brings online artificial
+                                                        intelligence
+                                                        tools
+                                                        under a single platform. By enabling them to use these tools in
+                                                        an integrated
+                                                        manner, it makes business processes more effective and
+                                                        efficient. It also aims
+                                                        to
+                                                        maximize the user experience thanks to its history-based memory.
                                                     </p>
                                                 </div>
                                             </div>
@@ -192,40 +215,35 @@
                                                 <button class="accordion-button collapsed" type="button"
                                                     data-bs-toggle="collapse" data-bs-target="#membercollapseFive"
                                                     aria-expanded="false" aria-controls="membercollapseFive">
-                                                    How can I support this site?
+                                                    How is Zobox different from other artificial intelligence
+                                                    applications?
                                                 </button>
                                             </h5>
                                             <div id="membercollapseFive" class="accordion-collapse collapse"
                                                 aria-labelledby="memberheadingFive" data-bs-parent="#memberaccordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        There are two main situations where ZOBOX has an advantage over
+                                                        its competitors:
+                                                        <br><br>
+                                                        - Seamlessly brings together artificial intelligence tools on a
+                                                        single platform
+                                                        <br>
+                                                        - Paying attention to focusing on the specific needs of the
+                                                        sector and
+                                                        identifying
+                                                        and improving deficiencies
+                                                        <br><br>
+                                                        In short, ZOBOX focuses on the integration of vehicles and
+                                                        industry needs,
+                                                        offering
+                                                        its users more practical and effective solutions compared to its
+                                                        competitors.
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="accordion-item content__space wow fadeInUp"
-                                            data-wow-duration="600ms" data-wow-delay="1500ms">
-                                            <h5 class="accordion-header" id="memberheadingSix">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#membercollapseSix"
-                                                    aria-expanded="false" aria-controls="membercollapseSix">
-                                                    How do I add/change my profile picture?
-                                                </button>
-                                            </h5>
-                                            <div id="membercollapseSix" class="accordion-collapse collapse"
-                                                aria-labelledby="memberheadingSix" data-bs-parent="#memberaccordion">
-                                                <div class="accordion-body">
-                                                    <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
+
                                     </div>
                                 </div>
                                 <div class="col-12 col-lg-6">
@@ -236,57 +254,55 @@
                                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                                     data-bs-target="#membercollapseOne" aria-expanded="true"
                                                     aria-controls="membercollapseOne">
-                                                    What is ChatGPT?
+                                                    How much do you use open source applications?
                                                 </button>
                                             </h5>
                                             <div id="membercollapseOne" class="accordion-collapse collapse show"
                                                 aria-labelledby="memberheadingOne" data-bs-parent="#memberaccordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
-                                                    </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="accordion-item wow fadeInUp" data-wow-duration="600ms"
-                                            data-wow-delay="900ms">
-                                            <h5 class="accordion-header" id="memberheadingTwo">
-                                                <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#membercollapseTwo"
-                                                    aria-expanded="false" aria-controls="membercollapseTwo">
-                                                    How is Chatsonic different from ChatGPT by Open
-                                                    AI?
-                                                </button>
-                                            </h5>
-                                            <div id="membercollapseTwo" class="accordion-collapse collapse"
-                                                aria-labelledby="memberheadingTwo" data-bs-parent="#memberaccordion">
-                                                <div class="accordion-body">
-                                                    <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        In order to provide more efficient service in the context of the
+                                                        platform/application requirements we have developed, we receive
+                                                        support from
+                                                        different open source and paid applications after analysis
+                                                        studies. We aim to
+                                                        work
+                                                        in integration with the t3.aile platform, which is being
+                                                        developed in our
+                                                        country in
+                                                        the future.
                                                     </p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="accordion-item content__space wow fadeInUp"
-                                            data-wow-duration="600ms" data-wow-delay="1200ms">
-                                            <h5 class="accordion-header" id="memberheadingThree">
+                                            data-wow-duration="600ms" data-wow-delay="1500ms">
+                                            <h5 class="accordion-header" id="memberheadingSix">
                                                 <button class="accordion-button collapsed" type="button"
-                                                    data-bs-toggle="collapse" data-bs-target="#membercollapseThree"
-                                                    aria-expanded="false" aria-controls="membercollapseThree">
-                                                    What format are the files in?
+                                                    data-bs-toggle="collapse" data-bs-target="#membercollapseSix"
+                                                    aria-expanded="false" aria-controls="membercollapseSix">
+                                                    What applications do you plan for the platform?
                                                 </button>
                                             </h5>
-                                            <div id="membercollapseThree" class="accordion-collapse collapse"
-                                                aria-labelledby="memberheadingThree" data-bs-parent="#memberaccordion">
+                                            <div id="membercollapseSix" class="accordion-collapse collapse"
+                                                aria-labelledby="memberheadingSix" data-bs-parent="#memberaccordion">
                                                 <div class="accordion-body">
                                                     <p>
-                                                        analyses the speaker's face and gaze during a
-                                                        video conversation to maintain eye contact
-                                                        before changing the camera position.
+                                                        We carry out application development studies according to the
+                                                        use-case scenarios
+                                                        we
+                                                        have determined. In our current roadmap, we will integrate the
+                                                        following
+                                                        applications into our platform.<br><br>
+                                                        - Photo Edit Tool <br>
+                                                        - Resume Builder <br>
+                                                        - No-Code Chatbot <br>
+                                                        - Screenshot to Code <br>
+                                                        - Personel Consultant <br>
+                                                        - ZOBOX - LLM <br>
+                                                        - Code Master <br>
+                                                        - Image Generation <br>
+                                                        - Video Generation <br>
                                                     </p>
                                                 </div>
                                             </div>

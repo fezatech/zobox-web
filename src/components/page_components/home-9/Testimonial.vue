@@ -25,13 +25,15 @@
                                 </div>
                                 <div class="review-content">
                                     <p class="fw-7">
-                                        tech ai saves us thousands of dollars a week. We create
-                                        content briefs and write 50-100 unique SEO-driven pieces
-                                        per month. With tech.ai, we now craft briefs, outlines,
-                                        and full first.
+                                        ZOBOX-LLM enables us to save thousands of dollars per week. We create and write
+                                        50-100
+                                        unique SEO-focused content guides every month. With Tech.ai, we now generate
+                                        guides,
+                                        outlines, and complete content first.This AI integration capability
+                                        significantly streamlines our work.
                                     </p>
                                 </div>
-                                <div class="review-meta">
+                                <!-- <div class="review-meta">
                                     <div class="thumb">
                                         <img :src="require('@/assets/images/review/one.png')" alt="Image">
                                     </div>
@@ -39,7 +41,7 @@
                                         <p class="h6">Rex A. Munoz</p>
                                         <p>CEO, uSERP</p>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="review__single swiper-slide wow fadeInUp" data-wow-duration="600ms"
                                 data-wow-delay="200ms">
@@ -55,13 +57,12 @@
                                 </div>
                                 <div class="review-content">
                                     <p class="fw-7">
-                                        tech ai saves us thousands of dollars a week. We create
-                                        content briefs and write 50-100 unique SEO-driven pieces
-                                        per month. With tech.ai, we now craft briefs, outlines,
-                                        and full first.
+                                        ZOBOX's translation capabilities truly surprised me! Dealing with documents in
+                                different languages is a part of my job, and thanks to ZOBOX.AI, my translation process
+                                has become much faster and more efficient. It's definitely an excellent tool!
                                     </p>
                                 </div>
-                                <div class="review-meta">
+                                <!-- <div class="review-meta">
                                     <div class="thumb">
                                         <img :src="require('@/assets/images/review/two.png')" alt="Image">
                                     </div>
@@ -69,7 +70,7 @@
                                         <p class="h6">Nicholas Natteau</p>
                                         <p>CEO, uSERP</p>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="review__single swiper-slide wow fadeInUp" data-wow-duration="600ms"
                                 data-wow-delay="400ms">
@@ -85,13 +86,12 @@
                                 </div>
                                 <div class="review-content">
                                     <p class="fw-7">
-                                        tech ai saves us thousands of dollars a week. We create
-                                        content briefs and write 50-100 unique SEO-driven pieces
-                                        per month. With tech.ai, we now craft briefs, outlines,
-                                        and full first.
+                                        ZOBOX.AI's text generation abilities are truly impressive. I constantly need to produce
+                                content for blog posts, and ZOBOX.AI's creative suggestions and fluent texts constantly
+                                amaze me. Now, the content creation process is both more enjoyable and more efficient!
                                     </p>
                                 </div>
-                                <div class="review-meta">
+                                <!-- <div class="review-meta">
                                     <div class="thumb">
                                         <img :src="require('@/assets/images/review/two.png')" alt="Image">
                                     </div>
@@ -99,7 +99,7 @@
                                         <p class="h6">Jeremy Moser</p>
                                         <p>CEO, uSERP</p>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="review__single swiper-slide wow fadeInUp" data-wow-duration="600ms"
                                 data-wow-delay="600ms">
@@ -115,13 +115,12 @@
                                 </div>
                                 <div class="review-content">
                                     <p class="fw-7">
-                                        tech ai saves us thousands of dollars a week. We create
-                                        content briefs and write 50-100 unique SEO-driven pieces
-                                        per month. With tech.ai, we now craft briefs, outlines,
-                                        and full first.
+                                        I'm really excited to explore ZOBOX.AI's potential on social media. I deal with constant
+                                customer reports and notes, and thanks to ZOBOX.AI's natural language processing
+                                capabilities, understanding and analyzing these documents has become much easier.
                                     </p>
                                 </div>
-                                <div class="review-meta">
+                                <!-- <div class="review-meta">
                                     <div class="thumb">
                                         <img :src="require('@/assets/images/review/three.png')" alt="Image">
                                     </div>
@@ -129,7 +128,7 @@
                                         <p class="h6">Angela R. Nolan</p>
                                         <p>CEO, uSERP</p>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>

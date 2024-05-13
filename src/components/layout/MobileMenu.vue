@@ -5,7 +5,7 @@
                 <div class="mobile-menu__header">
                     <div class="nav__logo">
                         <router-link to="/" aria-label="home page" title="logo">
-                            <img :src="require('@/assets/images/logo-four.png')" alt="Image">
+                            <img :src="require('@/assets/images/logo-black.png')" alt="Image">
                         </router-link>
                     </div>
                     <button aria-label="close mobile menu" class="close-mobile-menu">
@@ -14,16 +14,16 @@
                 </div>
                 <div class="mobile-menu__list"></div>
                 <div class="mobile-menu__social social">
-                    <a href="https://www.facebook.com" aria-label="social media">
-                        <i class="fa-brands fa-facebook-f"></i>
+                    <a href="https://github.com/feza.tech" aria-label="social media">
+                        <i class="fa-brands fa-github"></i>
                     </a>
-                    <a href="https://www.twitter.com" aria-label="social media">
+                    <a href="https://twitter.com/feza.tech" aria-label="social media">
                         <i class="fa-brands fa-twitter"></i>
                     </a>
-                    <a href="https://www.linkedin.com" aria-label="social media">
+                    <a href="https://www.linkedin.com/company/fezateknoloji/" aria-label="social media">
                         <i class="fa-brands fa-linkedin-in"></i>
                     </a>
-                    <a href="https://www.instagram.com" aria-label="social media">
+                    <a href="https://www.instagram.com/feza.tech/" aria-label="social media">
                         <i class="fa-brands fa-instagram"></i>
                     </a>
                 </div>

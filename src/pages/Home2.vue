@@ -47,7 +47,6 @@
 			Tour,
 			Publish,
 			Features,
-			Pricing,
 			FAQ,
 			CTA,
 			Tools,

@@ -5,7 +5,7 @@
                 <div class="col-12">
                     <div class="banner-seven__content text-center wow fadeInUp" data-wow-duration="600ms"
                         data-wow-delay="300ms">
-                        <h1 class="text-uppercase fw-8">AI image generator</h1>
+                        <h1 class="text-uppercase fw-8">AI Image Generator</h1>
                         <p class="text-lg fw-5">
                             AI image generator lets you quickly turn your words into oh-so-incredible images.
                             Start bringing your ideas to life!
@@ -14,13 +14,13 @@
                             <div class="mail-group-two">
                                 <select class="styles">
                                     <option data-display="Style">
-                                        Styles
+                                        Realistic
                                     </option>
-                                    <option value="1">Style One</option>
-                                    <option value="2">Style Two</option>
+                                    <option value="1">Cartoon</option>
+                                    <option value="2">Sketch</option>
                                 </select>
                                 <input type="email" name="search" id="search-field"
-                                    placeholder="describe what you want to see" required>
+                                    placeholder="Describe what you want to see ..." required>
                                 <button type="submit" aria-label="subscribe to our newsletter" class="btn btn--nonary">
                                     <span class="d-block">Generate now</span>
                                     <img :src="require('@/assets/images/home-six/ser.png')" alt="Image">

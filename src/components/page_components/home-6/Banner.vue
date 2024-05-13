@@ -5,7 +5,7 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg-9">
                         <div class="banner-six__content text-center">
-                            <p class="fw-6">Trusted by 2.5 million successful writers worldwide.</p>
+                            <p class="fw-6">Trusted by 2.5 million successful coders worldwide..</p>
                             <h2 class="h2-light">
                                 Write Code with 10X
                                 <span>Faster</span>
@@ -13,15 +13,15 @@
                             <ul class="wow fadeInUp">
                                 <li>
                                     <i class="fa-solid fa-check"></i>
-                                    Emotions
+                                    All Languages
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check"></i>
-                                    Speech-To-Speech
+                                    Professional Support
                                 </li>
                                 <li>
                                     <i class="fa-solid fa-check"></i>
-                                    Localize
+                                    Master of Cod
                                 </li>
                             </ul>
                             <div class="section__content-cta">

@@ -5,7 +5,7 @@
                 <div class="col-12">
                     <div class="update-cta__inner bg-img wow fadeInUp" data-wow-duration="600ms" data-wow-delay="300ms">
                         <div class="section__header">
-                            <h2 class="h2">Get updates</h2>
+                            <h2 class="h2">Get Updates</h2>
                             <p>
                                 Sign up to our newsletter to receive information about new
                                 products, special offers and updates.

@@ -12,23 +12,24 @@
                 </div>
                 <div class="col-12 col-lg-6 col-xxl-5 offset-xxl-1">
                     <p>
-                        The Background Remover uses artificial intelligence to detect
-                        the subject of the photo, mask the image, and remove the
-                        background. No additional work from you is required!
+                        Photo Edit Tool edits your image with multiple artificial intelligence tools.
+                        Edit as you wish from a single platform without using
+                        offers the opportunity. Additionly features of the products on the market,
+                        It adds INTEGRATION feature to its tools with other applications.
                     </p>
                 </div>
                 <div class="col-12 col-lg-3">
                     <div class="social justify-content-center justify-content-lg-end">
-                        <a href="https://www.facebook.com" aria-label="social media">
-                            <i class="fa-brands fa-facebook-f"></i>
+                        <a href="https://github.com/feza.tech" aria-label="social media">
+                            <i class="fa-brands fa-github"></i>
                         </a>
-                        <a href="https://www.twitter.com" aria-label="social media">
+                        <a href="https://twitter.com/feza.tech" aria-label="social media">
                             <i class="fa-brands fa-twitter"></i>
                         </a>
-                        <a href="https://www.linkedin.com" aria-label="social media">
+                        <a href="https://www.linkedin.com/company/fezateknoloji" aria-label="social media">
                             <i class="fa-brands fa-linkedin-in"></i>
                         </a>
-                        <a href="https://www.instagram.com" aria-label="social media">
+                        <a href="https://www.instagram.com/feza.tech" aria-label="social media">
                             <i class="fa-brands fa-instagram"></i>
                         </a>
                     </div>
@@ -127,30 +128,28 @@
             <p>
                 Copyright &copy;
                 <span id="copyYear"></span>
-                <router-link to="/">techAI</router-link>
-                . Designed By
-                <a href="https://themeforest.net/user/gramentheme">Gramentheme</a>
+                <router-link to="/">ZOBOX.AI</router-link>
             </p>
         </div>
     </footer>
 </template>
 
 <script>
-    export default {
-        name: "Footer3",
-        props: {
-            LogoSrc: {
-                type: String,
-                required: true,
-            },
+export default {
+    name: "Footer3",
+    props: {
+        LogoSrc: {
+            type: String,
+            required: true,
         },
-        computed: {
-            LogoURL() {
-                return this.LogoSrc;
-            },
+    },
+    computed: {
+        LogoURL() {
+            return this.LogoSrc;
         },
-        mounted(){
-            document.getElementById('copyYear').textContent = new Date().getFullYear();
-        }
-    };
+    },
+    mounted() {
+        document.getElementById('copyYear').textContent = new Date().getFullYear();
+    }
+};
 </script>

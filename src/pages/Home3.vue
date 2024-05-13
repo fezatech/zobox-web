@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<div class="my-app home-dark">
-			<Header class="header--dark" :logo-src="require('@/assets/images/logo-two.png')"/>
+			<Header class="header--dark" :logo-src="require('@/assets/images/logo.png')"/>
             <MobileMenu />
             <Banner3 />
             <Removebg />
@@ -12,7 +12,7 @@
             <Testimonial />
             <Explore />
             <CTA />
-            <Footer3 :logo-src="require('@/assets/images/logo-light.png')"/>
+            <Footer3 :logo-src="require('@/assets/images/logo.png')"/>
 		</div>
 		<BackToTop />
 	</div>

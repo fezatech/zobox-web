@@ -5,8 +5,8 @@
                 <div class="col-12 col-lg-6">
                     <div class="tradi__single trad-1 bg-img" data-background="assets/images/home-nine/t-one.png">
                         <h2>
-                            Stop Traditional video
-                            creation
+                            Stop Traditional Video
+                            Creation
                         </h2>
                         <ul class="section__content-cta">
                             <li>
@@ -38,8 +38,8 @@
                 <div class="col-12 col-lg-6">
                     <div class="tradi__single trad-2 wer bg-img" data-background="assets/images/home-nine/t-two.png">
                         <h2>
-                            Generate AI videos with
-                            real human
+                            Generate AI Videos with
+                            Real Human
                         </h2>
                         <ul class="section__content-cta">
                             <li>

@@ -31,10 +31,9 @@
                                     Features - 01
                                 </span>
                                 <div class="content">
-                                    <h4 class="h4">Super Search</h4>
+                                    <h4 class="h4">Code Master</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Developing software is now much easier with the software language you need and a language model specifically trained for the field.
                                     </p>
                                     <div class="section__content-cta">
                                         <router-link to="/use-case-details">
@@ -48,10 +47,9 @@
                                     Features - 02
                                 </span>
                                 <div class="content">
-                                    <h4 class="h4">Shortcuts</h4>
+                                    <h4 class="h4">Screenshot to Code</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Now you can create seamless UI designs with just a screenshot and save a lot of time. Just take a screenshot and send it to the application. 
                                     </p>
                                     <div class="section__content-cta">
                                         <router-link to="/use-case-details">
@@ -65,7 +63,7 @@
                                     Features - 03
                                 </span>
                                 <div class="content">
-                                    <h4 class="h4">Train Your Assistant</h4>
+                                    <h4 class="h4">Super Search</h4>
                                     <p>
                                         Have you ever imagined being able to ask for information, advice, and ideas, all
                                         enriched by generated code?
@@ -82,10 +80,9 @@
                                     Features - 04
                                 </span>
                                 <div class="content">
-                                    <h4 class="h4">Text box</h4>
+                                    <h4 class="h4">Clean Code and Debugging</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Use ZOBOX Code Master for more understandable and efficient codes! In this way, you can work much more comfortably as a team.
                                     </p>
                                     <div class="section__content-cta">
                                         <router-link to="/use-case-details">
@@ -99,61 +96,9 @@
                                     Features - 05
                                 </span>
                                 <div class="content">
-                                    <h4 class="h4">Super Search</h4>
+                                    <h4 class="h4">Code Quality Analysis</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
-                                    </p>
-                                    <div class="section__content-cta">
-                                        <router-link to="/use-case-details">
-                                            Learn More
-                                        </router-link>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="case__slider-single swiper-slide">
-                                <span>
-                                    Features - 06
-                                </span>
-                                <div class="content">
-                                    <h4 class="h4">Shortcuts</h4>
-                                    <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
-                                    </p>
-                                    <div class="section__content-cta">
-                                        <router-link to="/use-case-details">
-                                            Learn More
-                                        </router-link>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="case__slider-single swiper-slide">
-                                <span>
-                                    Features - 07
-                                </span>
-                                <div class="content">
-                                    <h4 class="h4">Train Your Assistant</h4>
-                                    <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
-                                    </p>
-                                    <div class="section__content-cta">
-                                        <router-link to="/use-case-details">
-                                            Learn More
-                                        </router-link>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="case__slider-single swiper-slide">
-                                <span>
-                                    Features - 08
-                                </span>
-                                <div class="content">
-                                    <h4 class="h4">Text box</h4>
-                                    <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        ZOBOX Code Master analyzes code quality and helps developers identify potential bugs and code quality improvements.
                                     </p>
                                     <div class="section__content-cta">
                                         <router-link to="/use-case-details">

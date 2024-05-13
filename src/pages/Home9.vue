@@ -13,7 +13,7 @@
             <Eraser />
             <Testimonial />
             <CTA />
-            <Footer3 :logo-src="require('@/assets/images/logo-light.png')"/>
+            <Footer9 :logo-src="require('@/assets/images/logo.png')"/>
 		</div>
 		<BackToTop />
 	</div>
@@ -32,7 +32,7 @@ import Eraser from '../components/page_components/home-9/Eraser.vue'
 import FAQ from '../components/page_components/home-9/FAQ.vue'
 import Testimonial from '../components/page_components/home-9/Testimonial.vue'
 import CTA from '../components/page_components/home-9/CTA.vue'
-import Footer3 from '../components/layout/Footer3.vue'
+import Footer9 from '../components/layout/Footer9.vue'
 import BackToTop from '../components/common/BackToTop.vue'
 	export default {
 		name: "Home3",
@@ -49,7 +49,7 @@ import BackToTop from '../components/common/BackToTop.vue'
             Eraser,
             Testimonial,
             CTA,
-            Footer3,
+            Footer9,
 			BackToTop
 		},
 	};

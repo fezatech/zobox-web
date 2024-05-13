@@ -70,7 +70,7 @@
                 </div>
                 <div class="col-12 col-sm-6 col-lg-3">
                     <div class="footer__single wow fadeInUp" data-wow-duration="600ms" data-wow-delay="600ms">
-                        <h5 class="h5">support</h5>
+                        <h5 class="h5">Support</h5>
                         <ul>
                             <li>
                                 <a href="javascript:void(0)">Privacy Policy</a>

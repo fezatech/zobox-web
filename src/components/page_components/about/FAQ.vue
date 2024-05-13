@@ -23,7 +23,7 @@
                                 data-bs-parent="#accordion">
                                 <div class="accordion-body">
                                     <p>
-                                        ZOBOX is a SaaS-based AI platform that brings online artificial intelligence
+                                        ZOBOX is a SaaS based AI platform that brings online artificial intelligence
                                         tools
                                         under a single platform. By enabling them to use these tools in an integrated
                                         manner, it makes business processes more effective and efficient. It also aims

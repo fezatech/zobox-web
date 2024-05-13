@@ -27,7 +27,7 @@
                                     <img :src="require('@/assets/images/home-four/f-i-three.png')" alt="Image">
                                 </div>
                                 <div class="content">
-                                    <h4>Personal Website</h4>
+                                    <h4>Compatible Corporate Culture</h4>
                                 </div>
                             </div>
                         </div>

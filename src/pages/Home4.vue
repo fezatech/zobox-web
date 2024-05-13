@@ -39,7 +39,6 @@ export default {
         Overview,
         Templates,
         Generate,
-        Pricing,
         FAQ,
         Testimonial,
         CTA,
