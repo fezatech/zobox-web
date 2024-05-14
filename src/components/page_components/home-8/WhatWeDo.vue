@@ -32,8 +32,8 @@
                                 <div class="content">
                                     <h4 class="h4">ZOBOX-LLM</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        The ZOBOX LLM model is an open-source fine-tuned large language model. It forms
+                                        the foundation of ZOBOX's tools.
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -44,8 +44,8 @@
                                 <div class="content">
                                     <h4 class="h4">Presentation Maker</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        ZOBOX is a tool that create presentations in minutes thanks to integrated work
+                                        of tools such as Image Generator, Media Edit and ZOBOX-LLM.
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -56,8 +56,8 @@
                                 <div class="content">
                                     <h4 class="h4">Personel IVR System</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        An AI tool that tracks your daily schedule, makes adjustments, and provides
+                                        alerts. It works in integration with different calendar apps.
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -68,8 +68,9 @@
                                 <div class="content">
                                     <h4 class="h4">Image Generator</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Create visuals quickly and
+                                        effectively. By enriching ideas, it helps you produce unique and
+                                        creative images for your projects.
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -80,8 +81,9 @@
                                 <div class="content">
                                     <h4 class="h4">Visual Tools</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Visual Tools simplifies your tasks by providing visual AI tools in a single
+                                        interface. It helps you use more impressive visuals in your
+                                        projects.
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -92,8 +94,11 @@
                                 <div class="content">
                                     <h4 class="h4">Resume Builder</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Create professional and impressive
+                                        resumes. With its extreme features, it helps you organize and present your
+                                        ideas to achieve your career goals.
+
+
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -104,8 +109,8 @@
                                 <div class="content">
                                     <h4 class="h4">Royalty Free Image Gen/Finder</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Find quickly and easily create your royalty-free images. It provides high-quality, freely usable
+                                        images for your projects.
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -116,8 +121,8 @@
                                 <div class="content">
                                     <h4 class="h4">Code Assistant</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Accelerates your coding and development processes.
+                                        By enriching information and ideas, it helps you create more efficient code.
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -128,8 +133,8 @@
                                 <div class="content">
                                     <h4 class="h4">Screenshot to Code</h4>
                                     <p>
-                                        Have you ever imagined being able to ask for information, advice, and ideas, all
-                                        enriched by generated code?
+                                        Convert quickly and accurately converts screenshots
+                                        into code. This helps you save time in your projects and progress faster.
                                     </p>
                                     <router-link to="/use-case-details">
                                         Learn More
@@ -145,31 +150,31 @@
 </template>
 
 <script>
-    import Swiper from 'swiper';
-    import 'swiper/swiper-bundle.css';
+import Swiper from 'swiper';
+import 'swiper/swiper-bundle.css';
 
-    export default {
-        name: "WhatWeDo",
-        mounted() {
-            new Swiper('.case__slider-h-e', {
-                slidesPerView: 'auto',
-                spaceBetween: 30,
-                loop: true,
-                speed: 1000,
-                autoplay: {
-                    delay: 4000,
-                },
-                navigation: {
-                    nextEl: '.next-h-e-case',
-                    prevEl: '.prev-h-e-case',
-                },
-            });
-        }
+export default {
+    name: "WhatWeDo",
+    mounted() {
+        new Swiper('.case__slider-h-e', {
+            slidesPerView: 'auto',
+            spaceBetween: 30,
+            loop: true,
+            speed: 1000,
+            autoplay: {
+                delay: 4000,
+            },
+            navigation: {
+                nextEl: '.next-h-e-case',
+                prevEl: '.prev-h-e-case',
+            },
+        });
     }
+}
 </script>
 
 <style>
-    .case__slider-h-e {
-        overflow: hidden;
-    }
+.case__slider-h-e {
+    overflow: hidden;
+}
 </style>

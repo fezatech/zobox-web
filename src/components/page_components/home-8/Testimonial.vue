@@ -76,7 +76,7 @@
                                 <div class="row items-gap align-items-center">
                                     <div class="col-12 col-lg-4 col-xxl-4">
                                         <div class="thumb">
-                                            <img :src="require('@/assets/images/testimonial/s-thumb.png')" alt="Image">
+                                            <img :src="require('@/assets/images/testimonial/zobox.png')" alt="Image">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="44" height="322"
                                                 viewBox="0 0 44 322" fill="none">
                                                 <path d="M43 -0.000976562V151.999L2 192.999H43V321.999"
@@ -90,16 +90,14 @@
                                                 <i class="fa-solid fa-quote-right"></i>
                                             </div>
                                             <div class="content">
-                                                <h4>posuere luctus orci. Donec vitae mattis quam, vitae tempor arcu.
-                                                    Aenean
-                                                    non odio porttitor, convallis erat sit amet, facilisis velit. Nulla
-                                                    ornare convallis malesuada. Phasellus molestie, ipsum ac fringilla.
+                                                <h4>
+                                                    They have improved both themselves and their business models a lot since my first mentoring of the project. <br>I have full faith that they will achieve success with the problems they solve with ZOBOX.
                                                 </h4>
                                             </div>
-                                            <div class="content-cta">
+                                            <!-- <div class="content-cta">
                                                 <h5>Daniel Smith</h5>
                                                 <p>Senior engineer</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -108,7 +106,7 @@
                                 <div class="row items-gap align-items-center">
                                     <div class="col-12 col-lg-4 col-xxl-4">
                                         <div class="thumb">
-                                            <img :src="require('@/assets/images/testimonial/s-thumb-two.png')"
+                                            <img :src="require('@/assets/images/testimonial/personel-ivr.png')"
                                                 alt="Image">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="44" height="322"
                                                 viewBox="0 0 44 322" fill="none">
@@ -123,16 +121,14 @@
                                                 <i class="fa-solid fa-quote-right"></i>
                                             </div>
                                             <div class="content">
-                                                <h4>posuere luctus orci. Donec vitae mattis quam, vitae tempor arcu.
-                                                    Aenean
-                                                    non odio porttitor, convallis erat sit amet, facilisis velit. Nulla
-                                                    ornare convallis malesuada. Phasellus molestie, ipsum ac fringilla.
+                                                <h4>
+                                                    The integration of artificial intelligence into daily life is great. Even as a beta version user and tester, I can say that it makes my job much easier.
                                                 </h4>
                                             </div>
-                                            <div class="content-cta">
+                                            <!-- <div class="content-cta">
                                                 <h5>Daniel Smith</h5>
                                                 <p>Senior engineer</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -141,7 +137,7 @@
                                 <div class="row items-gap align-items-center">
                                     <div class="col-12 col-lg-4 col-xxl-4">
                                         <div class="thumb">
-                                            <img :src="require('@/assets/images/testimonial/s-thumb-three.png')"
+                                            <img :src="require('@/assets/images/testimonial/zobox-llm.png')"
                                                 alt="Image">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="44" height="322"
                                                 viewBox="0 0 44 322" fill="none">
@@ -156,16 +152,14 @@
                                                 <i class="fa-solid fa-quote-right"></i>
                                             </div>
                                             <div class="content">
-                                                <h4>posuere luctus orci. Donec vitae mattis quam, vitae tempor arcu.
-                                                    Aenean
-                                                    non odio porttitor, convallis erat sit amet, facilisis velit. Nulla
-                                                    ornare convallis malesuada. Phasellus molestie, ipsum ac fringilla.
+                                                <h4>
+                                                    Artificial intelligence is everywhere now. In particular, LLM models specialized in one field work very well. <br>ZOBOX-LLM project also has the potential to be opened to users very quickly, thanks to its vision and policy. 
                                                 </h4>
                                             </div>
-                                            <div class="content-cta">
+                                            <!-- <div class="content-cta">
                                                 <h5>Daniel Smith</h5>
                                                 <p>Senior engineer</p>
-                                            </div>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>

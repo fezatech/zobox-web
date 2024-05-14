@@ -6,7 +6,7 @@
                     <div class="pr-d-inner bg-img">
                         <h2 class="h1">Launch your productivity !</h2>
                         <div class="section__content-cta">
-                            <router-link to="/sign-up" class="btn btn-fo">try it free now</router-link>
+                            <router-link to="/sign-up" class="btn btn-fo">try it now !</router-link>
                         </div>
                     </div>
                 </div>

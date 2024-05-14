@@ -34,53 +34,12 @@
                                 </span>
                                 <div class="thumb">
                                     <router-link to="/blog-details">
-                                        <img :src="require('@/assets/images/home-eight/five.png')" alt="Image">
-                                    </router-link>
-                                </div>
-                                <div class="content">
-                                    <h4>
-                                        <router-link to="/blog-details">Data Integration & Identity solu for the Human
-                                            Normanti</router-link>
-                                    </h4>
-                                    <p>
-                                        <span>02</span>
-                                        July 2022
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="he-ln__single swiper-slide">
-                                <span class="tg">
-                                    News
-                                </span>
-                                <h4>
-                                    <router-link to="/blog-details">Tincidunt ipsum venenatis urna enim vulputate vitae
-                                        aenean</router-link>
-                                </h4>
-                                <div class="thumb">
-                                    <router-link to="/blog-details">
-                                        <img :src="require('@/assets/images/home-eight/six.png')" alt="Image">
-                                    </router-link>
-                                </div>
-                                <div class="content">
-                                    <p>
-                                        <span>02</span>
-                                        July 2022
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="he-ln__single swiper-slide">
-                                <span class="tg">
-                                    News
-                                </span>
-                                <div class="thumb">
-                                    <router-link to="/blog-details">
                                         <img :src="require('@/assets/images/home-eight/seven.png')" alt="Image">
                                     </router-link>
                                 </div>
                                 <div class="content">
                                     <h4>
-                                        <router-link to="/blog-details">magna condimentum non adipiscing. Neque nullam
-                                            tortor</router-link>
+                                        <router-link to="/blog-details">ZOBOX-LLM V.1 is released in Beta version. Coming soon 🚀</router-link>
                                     </h4>
                                     <p>
                                         <span>02</span>
@@ -99,8 +58,7 @@
                                 </div>
                                 <div class="content">
                                     <h4>
-                                        <router-link to="/blog-details">Data Integration & Identity solu for the Human
-                                            Normanti</router-link>
+                                        <router-link to="/blog-details">The first tool integrated into the workspace (Media Edit Tool) ✅</router-link>
                                     </h4>
                                     <p>
                                         <span>02</span>
@@ -108,13 +66,13 @@
                                     </p>
                                 </div>
                             </div>
+                            
                             <div class="he-ln__single swiper-slide">
                                 <span class="tg">
                                     News
                                 </span>
                                 <h4>
-                                    <router-link to="/blog-details">Tincidunt ipsum venenatis urna enim vulputate vitae
-                                        aenean</router-link>
+                                    <router-link to="/blog-details">Turkey's Big Language Model was announced with T3 AI'LE 🚀</router-link>
                                 </h4>
                                 <div class="thumb">
                                     <router-link to="/blog-details">
@@ -123,8 +81,8 @@
                                 </div>
                                 <div class="content">
                                     <p>
-                                        <span>02</span>
-                                        July 2022
+                                        <span>24</span>
+                                        Feb 2024
                                     </p>
                                 </div>
                             </div>
@@ -132,27 +90,26 @@
                                 <span class="tg">
                                     News
                                 </span>
+                                <h4>
+                                    <router-link to="/blog-details">OpenAI introduces GPT-4o, the new version of ChatGPT 🤖</router-link>
+                                </h4>
                                 <div class="thumb">
                                     <router-link to="/blog-details">
-                                        <img :src="require('@/assets/images/home-eight/seven.png')" alt="Image">
+                                        <img :src="require('@/assets/images/home-eight/ten.png')" alt="Image">
                                     </router-link>
                                 </div>
                                 <div class="content">
-                                    <h4>
-                                        <router-link to="/blog-details">magna condimentum non adipiscing. Neque nullam
-                                            tortor</router-link>
-                                    </h4>
                                     <p>
-                                        <span>02</span>
-                                        July 2022
+                                        <span>14</span>
+                                        May 2024
                                     </p>
                                 </div>
+                            </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
     </section>
 </template>
 

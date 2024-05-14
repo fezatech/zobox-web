@@ -64,7 +64,7 @@
             </div>
         </div>
         <div class="template-popup" style="display: none;">
-            <iframe src="https://www.youtube.com/embed/RvreULjnzFo" title="YouTube video player" frameborder="0"
+            <iframe src="https://www.youtube.com/watch?v=_UvNoSdXmyc" title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen></iframe>
         </div>
