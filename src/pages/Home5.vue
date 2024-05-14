@@ -4,11 +4,9 @@
             <TopHeader />
 			<Header class="header--dark" :logo-src="require('@/assets/images/home-four/logo.png')"/>
 			<MobileMenu />
-			<Banner />
-			<Work />
+			<Banner/>
 			<Case />
             <FAQ />
-			<Review class="pb-0"/>
 			<CTA />
 			<Footer :logo-src="require('@/assets/images/home-four/logo.png')"/>
 		</div>
@@ -35,10 +33,8 @@ import BackToTop from '../components/common/BackToTop.vue'
 			Header,
 			MobileMenu,
 			Banner,
-			Work,
 			FAQ,
 			Case,
-			Review,
 			CTA,
 			Footer,
 			BackToTop

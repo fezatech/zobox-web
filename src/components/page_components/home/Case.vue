@@ -44,8 +44,7 @@
                                     <div class="content">
                                         <h5 class="h5">E-learning</h5>
                                         <p>
-                                            You can make your learning process easier thanks to staff assistants who know
-                                            you.
+                                            You can make learning process easier thanks to staff assistants.
                                         </p>
                                         <router-link to="/use-case-details">
                                             View Details
@@ -62,7 +61,7 @@
                                         <p>
                                             We will also offer some applications as APIs.
                                         </p>
-                                        <router-link to="/use-case-details">g
+                                        <router-link to="/use-case-details">
                                             View Details
                                             <i class="fa-solid fa-angles-right"></i>
                                         </router-link>

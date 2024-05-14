@@ -1,8 +1,8 @@
 {
-  "name": "tech-ai",
+  "name": "zobox-ai",
   "version": "1.0.0",
-  "description": "AI Toolkit HTML5 Template",
-  "author": "Sanzary Rezvy <sanzary.html.5@gmail.com>",
+  "description": "ZOBOX - Saas Based AI Platform",
+  "author": "FEZA.TECH <fezatech.tr@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",

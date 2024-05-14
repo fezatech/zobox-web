@@ -28,7 +28,7 @@
                     </div>
                 </div>
             </div>
-            <div class="section__content-cta tour">
+            <div class="section__content-cta tour" style="margin-bottom: 5%;">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">

@@ -10,19 +10,19 @@
                         <p>
                             Copyright &copy;
                             <span id="copyYear"></span>
-                            <router-link to="/">techAI</router-link>
+                            <router-link to="/">ZOBOX.AI</router-link>
                         </p>
                         <div class="social">
-                            <a href="https://www.facebook.com" aria-label="social media">
-                                <i class="fa-brands fa-facebook-f"></i>
+                            <a href="https://github.com/feza.tech" aria-label="social media">
+                                <i class="fa-brands fa-github"></i>
                             </a>
-                            <a href="https://www.twitter.com" aria-label="social media">
+                            <a href="https://twitter.com/feza.tech" aria-label="social media">
                                 <i class="fa-brands fa-twitter"></i>
                             </a>
-                            <a href="https://www.linkedin.com" aria-label="social media">
+                            <a href="https://www.linkedin.com/company/fezateknoloji" aria-label="social media">
                                 <i class="fa-brands fa-linkedin-in"></i>
                             </a>
-                            <a href="https://www.instagram.com" aria-label="social media">
+                            <a href="https://www.instagram.com/feza.tech" aria-label="social media">
                                 <i class="fa-brands fa-instagram"></i>
                             </a>
                         </div>
@@ -30,7 +30,7 @@
                 </div>
                 <div class="col-12 col-sm-6 col-xl-2 col-xxl-2">
                     <div class="footer-two__single wow fadeInUp" data-wow-duration="600ms" data-wow-delay="200ms">
-                        <h5 class="h5">About tech AI</h5>
+                        <h5 class="h5">About ZOBOX.AI</h5>
                         <ul>
                             <li>
                                 <a href="javascript:void(0)">About</a>
@@ -52,13 +52,10 @@
                 </div>
                 <div class="col-12 col-sm-6 col-xl-2 col-xxl-2">
                     <div class="footer-two__single wow fadeInUp" data-wow-duration="600ms" data-wow-delay="400ms">
-                        <h5 class="h5">Free tools</h5>
+                        <h5 class="h5">Free Tools</h5>
                         <ul>
                             <li>
                                 <a href="javascript:void(0)"> AI Article Writer</a>
-                            </li>
-                            <li>
-                                <a href="javascript:void(0)">Paraphrasing Tool</a>
                             </li>
                             <li>
                                 <a href="javascript:void(0)"> Sentence Expander</a>
@@ -69,12 +66,15 @@
                             <li>
                                 <a href="javascript:void(0)">Art Generator</a>
                             </li>
+                            <li>
+                                <a href="javascript:void(0)">Photo Edit Tool</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-12 col-sm-6 col-xl-4 col-xxl-3">
                     <div class="footer-two__single wow fadeInUp" data-wow-duration="600ms" data-wow-delay="600ms">
-                        <h5 class="h5">Art Generator</h5>
+                        <h5 class="h5">Subscribe Us</h5>
                         <div class="footer-two__form">
                             <h6 class="h6">Ready to unlock your full potential?</h6>
                             <form action="#" method="post">
